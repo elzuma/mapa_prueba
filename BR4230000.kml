@@ -1,0 +1,24 @@
+
+        <?xml version="1.0" encoding="UTF-8"?>
+        <kml xmlns="http://www.opengis.net/kml/2.2">
+          <Placemark>
+            <name>BR4230000</name>
+            <description><![CDATA[
+              <p>Latitud: 37.172140983</p>
+              <p>Longitud: -6.897157654</p>
+              <p>X_utm: 686691.426</p>
+              <p>Y_utm: 4116039.326</p>
+              <p>Z_utm: 10.636395000000002</p>
+              <p>K_utm: 1.00002928</p>
+              <p>X_rlr: 1968.291</p>
+              <p>Y_rlr: 122.891</p>
+              <p>Z_rlr: 13.018</p>
+              <p>Descripción: descripcion</p>
+              <p>Fecha de construcción: 2024</p>
+            ]]></description>
+            <Point>
+              <coordinates>-6.897157654,37.172140983,0</coordinates>
+            </Point>
+          </Placemark>
+        </kml>
+        
