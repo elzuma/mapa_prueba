@@ -10,7 +10,29 @@
     <div id="map" style="width: 100%; height: 600px;"></div>
 
     <script>
-        var map = L.map('map').setView([37.7749, -95.712891], 4);  // Centro aproximado de EE.UU.
+        // Función para obtener parámetros de la URL
+        function getQueryParams() {
+            const params = new URLSearchParams(window.location.search);
+            return {
+                lat: params.get('lat'),
+                lng: params.get('lng'),
+                zoom: params.get('zoom')
+            };
+        }
+
+        // Obtener parámetros de la URL
+        const queryParams = getQueryParams();
+        let initialLat = 37.7749;
+        let initialLng = -95.712891;
+        let initialZoom = 4;
+
+        if (queryParams.lat && queryParams.lng && queryParams.zoom) {
+            initialLat = parseFloat(queryParams.lat);
+            initialLng = parseFloat(queryParams.lng);
+            initialZoom = parseInt(queryParams.zoom, 10);
+        }
+
+        var map = L.map('map').setView([initialLat, initialLng], initialZoom);
 
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             attribution: 'Map data © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'

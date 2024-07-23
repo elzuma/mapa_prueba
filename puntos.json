@@ -15,7 +15,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.184249733,-6.901689535&label=VR15",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184249733&mlon=-6.901689535#map=18/37.184249733/-6.901689535"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184249733&mlon=-6.901689535#map=18/37.184249733/-6.901689535",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.184249733&lng=-6.901689535&zoom=18"
     },
     {
         "nombre": "VR19",
@@ -33,7 +34,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.183944,-6.901266739&label=VR19",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183944&mlon=-6.901266739#map=18/37.183944/-6.901266739"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183944&mlon=-6.901266739#map=18/37.183944/-6.901266739",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.183944&lng=-6.901266739&zoom=18"
     },
     {
         "nombre": "BR1000000",
@@ -51,7 +53,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.183398787,-6.900520731&label=BR1000000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183398787&mlon=-6.900520731#map=18/37.183398787/-6.900520731"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183398787&mlon=-6.900520731#map=18/37.183398787/-6.900520731",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.183398787&lng=-6.900520731&zoom=18"
     },
     {
         "nombre": "BR1010000",
@@ -69,7 +72,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.183745272,-6.900310208&label=BR1010000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183745272&mlon=-6.900310208#map=18/37.183745272/-6.900310208"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183745272&mlon=-6.900310208#map=18/37.183745272/-6.900310208",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.183745272&lng=-6.900310208&zoom=18"
     },
     {
         "nombre": "BR1020000",
@@ -87,7 +91,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.184048547,-6.899692374&label=BR1020000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184048547&mlon=-6.899692374#map=18/37.184048547/-6.899692374"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184048547&mlon=-6.899692374#map=18/37.184048547/-6.899692374",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.184048547&lng=-6.899692374&zoom=18"
     },
     {
         "nombre": "BR1030000",
@@ -105,7 +110,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.184680559,-6.900466087&label=BR1030000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184680559&mlon=-6.900466087#map=18/37.184680559/-6.900466087"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184680559&mlon=-6.900466087#map=18/37.184680559/-6.900466087",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.184680559&lng=-6.900466087&zoom=18"
     },
     {
         "nombre": "BR1040000",
@@ -123,7 +129,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.184925183,-6.900910807&label=BR1040000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184925183&mlon=-6.900910807#map=18/37.184925183/-6.900910807"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184925183&mlon=-6.900910807#map=18/37.184925183/-6.900910807",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.184925183&lng=-6.900910807&zoom=18"
     },
     {
         "nombre": "BR1050000",
@@ -141,7 +148,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.185463827,-6.901502906&label=BR1050000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185463827&mlon=-6.901502906#map=18/37.185463827/-6.901502906"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185463827&mlon=-6.901502906#map=18/37.185463827/-6.901502906",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.185463827&lng=-6.901502906&zoom=18"
     },
     {
         "nombre": "BR1060000",
@@ -159,7 +167,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.185713241,-6.902036152&label=BR1060000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185713241&mlon=-6.902036152#map=18/37.185713241/-6.902036152"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185713241&mlon=-6.902036152#map=18/37.185713241/-6.902036152",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.185713241&lng=-6.902036152&zoom=18"
     },
     {
         "nombre": "BR1070000",
@@ -177,7 +186,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.186133702,-6.902456959&label=BR1070000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186133702&mlon=-6.902456959#map=18/37.186133702/-6.902456959"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186133702&mlon=-6.902456959#map=18/37.186133702/-6.902456959",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.186133702&lng=-6.902456959&zoom=18"
     },
     {
         "nombre": "BR1080000",
@@ -195,7 +205,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.185731569,-6.902956498&label=BR1080000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185731569&mlon=-6.902956498#map=18/37.185731569/-6.902956498"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185731569&mlon=-6.902956498#map=18/37.185731569/-6.902956498",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.185731569&lng=-6.902956498&zoom=18"
     },
     {
         "nombre": "BR1090000",
@@ -213,7 +224,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.185448903,-6.903372491&label=BR1090000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185448903&mlon=-6.903372491#map=18/37.185448903/-6.903372491"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185448903&mlon=-6.903372491#map=18/37.185448903/-6.903372491",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.185448903&lng=-6.903372491&zoom=18"
     },
     {
         "nombre": "BR1100000",
@@ -231,7 +243,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.185006076,-6.902731826&label=BR1100000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185006076&mlon=-6.902731826#map=18/37.185006076/-6.902731826"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185006076&mlon=-6.902731826#map=18/37.185006076/-6.902731826",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.185006076&lng=-6.902731826&zoom=18"
     },
     {
         "nombre": "BR1110000",
@@ -249,7 +262,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.184646329,-6.902278187&label=BR1110000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184646329&mlon=-6.902278187#map=18/37.184646329/-6.902278187"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184646329&mlon=-6.902278187#map=18/37.184646329/-6.902278187",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.184646329&lng=-6.902278187&zoom=18"
     },
     {
         "nombre": "BR1120000",
@@ -267,7 +281,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.183955976,-6.901304818&label=BR1120000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183955976&mlon=-6.901304818#map=18/37.183955976/-6.901304818"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183955976&mlon=-6.901304818#map=18/37.183955976/-6.901304818",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.183955976&lng=-6.901304818&zoom=18"
     },
     {
         "nombre": "BR2000000",
@@ -285,7 +300,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.186312379,-6.903641138&label=BR2000000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186312379&mlon=-6.903641138#map=18/37.186312379/-6.903641138"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186312379&mlon=-6.903641138#map=18/37.186312379/-6.903641138",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.186312379&lng=-6.903641138&zoom=18"
     },
     {
         "nombre": "BR2010000",
@@ -303,7 +319,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.186871968,-6.904473367&label=BR2010000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186871968&mlon=-6.904473367#map=18/37.186871968/-6.904473367"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186871968&mlon=-6.904473367#map=18/37.186871968/-6.904473367",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.186871968&lng=-6.904473367&zoom=18"
     },
     {
         "nombre": "BR2020000",
@@ -321,7 +338,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.187455598,-6.905141652&label=BR2020000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.187455598&mlon=-6.905141652#map=18/37.187455598/-6.905141652"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.187455598&mlon=-6.905141652#map=18/37.187455598/-6.905141652",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.187455598&lng=-6.905141652&zoom=18"
     },
     {
         "nombre": "BR2030000",
@@ -339,7 +357,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.188049773,-6.906046113&label=BR2030000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.188049773&mlon=-6.906046113#map=18/37.188049773/-6.906046113"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.188049773&mlon=-6.906046113#map=18/37.188049773/-6.906046113",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.188049773&lng=-6.906046113&zoom=18"
     },
     {
         "nombre": "BR2040000",
@@ -357,7 +376,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.187557897,-6.906714977&label=BR2040000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.187557897&mlon=-6.906714977#map=18/37.187557897/-6.906714977"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.187557897&mlon=-6.906714977#map=18/37.187557897/-6.906714977",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.187557897&lng=-6.906714977&zoom=18"
     },
     {
         "nombre": "BR2050000",
@@ -375,7 +395,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.186822956,-6.907234707&label=BR2050000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186822956&mlon=-6.907234707#map=18/37.186822956/-6.907234707"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186822956&mlon=-6.907234707#map=18/37.186822956/-6.907234707",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.186822956&lng=-6.907234707&zoom=18"
     },
     {
         "nombre": "BR2060000",
@@ -393,7 +414,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.186229543,-6.907881415&label=BR2060000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186229543&mlon=-6.907881415#map=18/37.186229543/-6.907881415"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186229543&mlon=-6.907881415#map=18/37.186229543/-6.907881415",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.186229543&lng=-6.907881415&zoom=18"
     },
     {
         "nombre": "BR2070000",
@@ -411,7 +433,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.185711438,-6.908573694&label=BR2070000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185711438&mlon=-6.908573694#map=18/37.185711438/-6.908573694"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185711438&mlon=-6.908573694#map=18/37.185711438/-6.908573694",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.185711438&lng=-6.908573694&zoom=18"
     },
     {
         "nombre": "BR2080000",
@@ -429,7 +452,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.185012376,-6.909235854&label=BR2080000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185012376&mlon=-6.909235854#map=18/37.185012376/-6.909235854"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185012376&mlon=-6.909235854#map=18/37.185012376/-6.909235854",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.185012376&lng=-6.909235854&zoom=18"
     },
     {
         "nombre": "BR2090000",
@@ -447,7 +471,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.184532672,-6.908417457&label=BR2090000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184532672&mlon=-6.908417457#map=18/37.184532672/-6.908417457"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184532672&mlon=-6.908417457#map=18/37.184532672/-6.908417457",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.184532672&lng=-6.908417457&zoom=18"
     },
     {
         "nombre": "BR2100000",
@@ -465,7 +490,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.184003973,-6.90764968&label=BR2100000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184003973&mlon=-6.90764968#map=18/37.184003973/-6.90764968"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184003973&mlon=-6.90764968#map=18/37.184003973/-6.90764968",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.184003973&lng=-6.90764968&zoom=18"
     },
     {
         "nombre": "BR2110000",
@@ -483,7 +509,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.183443603,-6.907018283&label=BR2110000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183443603&mlon=-6.907018283#map=18/37.183443603/-6.907018283"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183443603&mlon=-6.907018283#map=18/37.183443603/-6.907018283",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.183443603&lng=-6.907018283&zoom=18"
     },
     {
         "nombre": "BR2120000",
@@ -501,7 +528,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.18303862,-6.906138447&label=BR2120000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.18303862&mlon=-6.906138447#map=18/37.18303862/-6.906138447"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.18303862&mlon=-6.906138447#map=18/37.18303862/-6.906138447",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.18303862&lng=-6.906138447&zoom=18"
     },
     {
         "nombre": "BR2130000",
@@ -519,7 +547,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.182259575,-6.907012715&label=BR2130000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.182259575&mlon=-6.907012715#map=18/37.182259575/-6.907012715"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.182259575&mlon=-6.907012715#map=18/37.182259575/-6.907012715",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.182259575&lng=-6.907012715&zoom=18"
     },
     {
         "nombre": "BR2140000",
@@ -537,7 +566,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.181587349,-6.907773205&label=BR2140000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.181587349&mlon=-6.907773205#map=18/37.181587349/-6.907773205"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.181587349&mlon=-6.907773205#map=18/37.181587349/-6.907773205",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.181587349&lng=-6.907773205&zoom=18"
     },
     {
         "nombre": "BR2150000",
@@ -555,7 +585,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.180854267,-6.906769757&label=BR2150000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.180854267&mlon=-6.906769757#map=18/37.180854267/-6.906769757"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.180854267&mlon=-6.906769757#map=18/37.180854267/-6.906769757",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.180854267&lng=-6.906769757&zoom=18"
     },
     {
         "nombre": "BR2160000",
@@ -573,7 +604,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.180112714,-6.905739732&label=BR2160000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.180112714&mlon=-6.905739732#map=18/37.180112714/-6.905739732"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.180112714&mlon=-6.905739732#map=18/37.180112714/-6.905739732",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.180112714&lng=-6.905739732&zoom=18"
     },
     {
         "nombre": "BR2170000",
@@ -591,7 +623,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.180843367,-6.905015066&label=BR2170000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.180843367&mlon=-6.905015066#map=18/37.180843367/-6.905015066"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.180843367&mlon=-6.905015066#map=18/37.180843367/-6.905015066",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.180843367&lng=-6.905015066&zoom=18"
     },
     {
         "nombre": "BR2180000",
@@ -609,7 +642,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.181516989,-6.904134776&label=BR2180000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.181516989&mlon=-6.904134776#map=18/37.181516989/-6.904134776"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.181516989&mlon=-6.904134776#map=18/37.181516989/-6.904134776",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.181516989&lng=-6.904134776&zoom=18"
     },
     {
         "nombre": "BR2190000",
@@ -627,7 +661,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.182160607,-6.903536401&label=BR2190000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.182160607&mlon=-6.903536401#map=18/37.182160607/-6.903536401"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.182160607&mlon=-6.903536401#map=18/37.182160607/-6.903536401",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.182160607&lng=-6.903536401&zoom=18"
     },
     {
         "nombre": "BR2200000",
@@ -645,7 +680,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.181577353,-6.902580419&label=BR2200000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.181577353&mlon=-6.902580419#map=18/37.181577353/-6.902580419"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.181577353&mlon=-6.902580419#map=18/37.181577353/-6.902580419",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.181577353&lng=-6.902580419&zoom=18"
     },
     {
         "nombre": "BR2210000",
@@ -663,7 +699,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.180895056,-6.90198273&label=BR2210000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.180895056&mlon=-6.90198273#map=18/37.180895056/-6.90198273"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.180895056&mlon=-6.90198273#map=18/37.180895056/-6.90198273",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.180895056&lng=-6.90198273&zoom=18"
     },
     {
         "nombre": "BR2220000",
@@ -681,7 +718,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.180183622,-6.900907225&label=BR2220000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.180183622&mlon=-6.900907225#map=18/37.180183622/-6.900907225"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.180183622&mlon=-6.900907225#map=18/37.180183622/-6.900907225",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.180183622&lng=-6.900907225&zoom=18"
     },
     {
         "nombre": "BR2230000",
@@ -699,7 +737,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.179637698,-6.899967194&label=BR2230000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.179637698&mlon=-6.899967194#map=18/37.179637698/-6.899967194"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.179637698&mlon=-6.899967194#map=18/37.179637698/-6.899967194",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.179637698&lng=-6.899967194&zoom=18"
     },
     {
         "nombre": "BR2240000",
@@ -717,7 +756,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.178974441,-6.900727245&label=BR2240000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.178974441&mlon=-6.900727245#map=18/37.178974441/-6.900727245"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.178974441&mlon=-6.900727245#map=18/37.178974441/-6.900727245",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.178974441&lng=-6.900727245&zoom=18"
     },
     {
         "nombre": "BR2250000",
@@ -735,7 +775,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.178485919,-6.901272994&label=BR2250000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.178485919&mlon=-6.901272994#map=18/37.178485919/-6.901272994"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.178485919&mlon=-6.901272994#map=18/37.178485919/-6.901272994",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.178485919&lng=-6.901272994&zoom=18"
     },
     {
         "nombre": "BR2260000",
@@ -753,7 +794,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.177875355,-6.900454161&label=BR2260000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.177875355&mlon=-6.900454161#map=18/37.177875355/-6.900454161"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.177875355&mlon=-6.900454161#map=18/37.177875355/-6.900454161",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.177875355&lng=-6.900454161&zoom=18"
     },
     {
         "nombre": "BR2270000",
@@ -771,7 +813,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.177231019,-6.899561827&label=BR2270000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.177231019&mlon=-6.899561827#map=18/37.177231019/-6.899561827"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.177231019&mlon=-6.899561827#map=18/37.177231019/-6.899561827",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.177231019&lng=-6.899561827&zoom=18"
     },
     {
         "nombre": "BR2280000",
@@ -789,7 +832,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.17658497,-6.898664735&label=BR2280000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.17658497&mlon=-6.898664735#map=18/37.17658497/-6.898664735"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.17658497&mlon=-6.898664735#map=18/37.17658497/-6.898664735",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.17658497&lng=-6.898664735&zoom=18"
     },
     {
         "nombre": "BR2290000",
@@ -807,7 +851,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.175917171,-6.89778314&label=BR2290000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.175917171&mlon=-6.89778314#map=18/37.175917171/-6.89778314"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.175917171&mlon=-6.89778314#map=18/37.175917171/-6.89778314",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.175917171&lng=-6.89778314&zoom=18"
     },
     {
         "nombre": "BR2300000",
@@ -825,7 +870,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.176617463,-6.897027317&label=BR2300000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.176617463&mlon=-6.897027317#map=18/37.176617463/-6.897027317"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.176617463&mlon=-6.897027317#map=18/37.176617463/-6.897027317",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.176617463&lng=-6.897027317&zoom=18"
     },
     {
         "nombre": "BR2310000",
@@ -843,7 +889,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.177164729,-6.896290864&label=BR2310000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.177164729&mlon=-6.896290864#map=18/37.177164729/-6.896290864"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.177164729&mlon=-6.896290864#map=18/37.177164729/-6.896290864",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.177164729&lng=-6.896290864&zoom=18"
     },
     {
         "nombre": "BR2320000",
@@ -861,7 +908,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.177744095,-6.897032174&label=BR2320000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.177744095&mlon=-6.897032174#map=18/37.177744095/-6.897032174"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.177744095&mlon=-6.897032174#map=18/37.177744095/-6.897032174",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.177744095&lng=-6.897032174&zoom=18"
     },
     {
         "nombre": "BR2330000",
@@ -879,7 +927,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.178209825,-6.897676357&label=BR2330000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.178209825&mlon=-6.897676357#map=18/37.178209825/-6.897676357"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.178209825&mlon=-6.897676357#map=18/37.178209825/-6.897676357",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.178209825&lng=-6.897676357&zoom=18"
     },
     {
         "nombre": "BR2340000",
@@ -897,7 +946,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.178795823,-6.898383037&label=BR2340000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.178795823&mlon=-6.898383037#map=18/37.178795823/-6.898383037"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.178795823&mlon=-6.898383037#map=18/37.178795823/-6.898383037",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.178795823&lng=-6.898383037&zoom=18"
     },
     {
         "nombre": "BR2350000",
@@ -915,7 +965,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.179387868,-6.897592088&label=BR2350000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.179387868&mlon=-6.897592088#map=18/37.179387868/-6.897592088"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.179387868&mlon=-6.897592088#map=18/37.179387868/-6.897592088",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.179387868&lng=-6.897592088&zoom=18"
     },
     {
         "nombre": "BR2360000",
@@ -933,7 +984,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.180325366,-6.89668347&label=BR2360000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.180325366&mlon=-6.89668347#map=18/37.180325366/-6.89668347"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.180325366&mlon=-6.89668347#map=18/37.180325366/-6.89668347",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.180325366&lng=-6.89668347&zoom=18"
     },
     {
         "nombre": "BR2370000",
@@ -951,7 +1003,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.180837626,-6.89608613&label=BR2370000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.180837626&mlon=-6.89608613#map=18/37.180837626/-6.89608613"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.180837626&mlon=-6.89608613#map=18/37.180837626/-6.89608613",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.180837626&lng=-6.89608613&zoom=18"
     },
     {
         "nombre": "BR2380000",
@@ -969,7 +1022,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.181230003,-6.895647346&label=BR2380000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.181230003&mlon=-6.895647346#map=18/37.181230003/-6.895647346"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.181230003&mlon=-6.895647346#map=18/37.181230003/-6.895647346",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.181230003&lng=-6.895647346&zoom=18"
     },
     {
         "nombre": "BR2390000",
@@ -987,7 +1041,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.181239599,-6.89488393&label=BR2390000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.181239599&mlon=-6.89488393#map=18/37.181239599/-6.89488393"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.181239599&mlon=-6.89488393#map=18/37.181239599/-6.89488393",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.181239599&lng=-6.89488393&zoom=18"
     },
     {
         "nombre": "BR2400000",
@@ -1005,7 +1060,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.181866663,-6.894043024&label=BR2400000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.181866663&mlon=-6.894043024#map=18/37.181866663/-6.894043024"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.181866663&mlon=-6.894043024#map=18/37.181866663/-6.894043024",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.181866663&lng=-6.894043024&zoom=18"
     },
     {
         "nombre": "BR2410000",
@@ -1023,7 +1079,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.182493774,-6.894027003&label=BR2410000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.182493774&mlon=-6.894027003#map=18/37.182493774/-6.894027003"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.182493774&mlon=-6.894027003#map=18/37.182493774/-6.894027003",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.182493774&lng=-6.894027003&zoom=18"
     },
     {
         "nombre": "BR2420000",
@@ -1041,7 +1098,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.183181805,-6.894709233&label=BR2420000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183181805&mlon=-6.894709233#map=18/37.183181805/-6.894709233"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183181805&mlon=-6.894709233#map=18/37.183181805/-6.894709233",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.183181805&lng=-6.894709233&zoom=18"
     },
     {
         "nombre": "BR2430000",
@@ -1059,7 +1117,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.183862864,-6.895844373&label=BR2430000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183862864&mlon=-6.895844373#map=18/37.183862864/-6.895844373"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183862864&mlon=-6.895844373#map=18/37.183862864/-6.895844373",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.183862864&lng=-6.895844373&zoom=18"
     },
     {
         "nombre": "BR2440000",
@@ -1077,7 +1136,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.184681073,-6.896581076&label=BR2440000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184681073&mlon=-6.896581076#map=18/37.184681073/-6.896581076"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184681073&mlon=-6.896581076#map=18/37.184681073/-6.896581076",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.184681073&lng=-6.896581076&zoom=18"
     },
     {
         "nombre": "BR2450000",
@@ -1095,7 +1155,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.184048887,-6.897283215&label=BR2450000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184048887&mlon=-6.897283215#map=18/37.184048887/-6.897283215"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184048887&mlon=-6.897283215#map=18/37.184048887/-6.897283215",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.184048887&lng=-6.897283215&zoom=18"
     },
     {
         "nombre": "BR2460000",
@@ -1113,7 +1174,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.183601379,-6.898064545&label=BR2460000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183601379&mlon=-6.898064545#map=18/37.183601379/-6.898064545"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183601379&mlon=-6.898064545#map=18/37.183601379/-6.898064545",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.183601379&lng=-6.898064545&zoom=18"
     },
     {
         "nombre": "BR2470000",
@@ -1131,7 +1193,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.183235741,-6.898596712&label=BR2470000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183235741&mlon=-6.898596712#map=18/37.183235741/-6.898596712"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183235741&mlon=-6.898596712#map=18/37.183235741/-6.898596712",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.183235741&lng=-6.898596712&zoom=18"
     },
     {
         "nombre": "BR2480000",
@@ -1149,7 +1212,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.183725185,-6.899081954&label=BR2480000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183725185&mlon=-6.899081954#map=18/37.183725185/-6.899081954"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183725185&mlon=-6.899081954#map=18/37.183725185/-6.899081954",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.183725185&lng=-6.899081954&zoom=18"
     },
     {
         "nombre": "BR2490000",
@@ -1167,7 +1231,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.183690534,-6.898007307&label=BR2490000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183690534&mlon=-6.898007307#map=18/37.183690534/-6.898007307"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183690534&mlon=-6.898007307#map=18/37.183690534/-6.898007307",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.183690534&lng=-6.898007307&zoom=18"
     },
     {
         "nombre": "BR3000000",
@@ -1185,7 +1250,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.182711904,-6.893286683&label=BR3000000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.182711904&mlon=-6.893286683#map=18/37.182711904/-6.893286683"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.182711904&mlon=-6.893286683#map=18/37.182711904/-6.893286683",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.182711904&lng=-6.893286683&zoom=18"
     },
     {
         "nombre": "BR3010000",
@@ -1203,7 +1269,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.183326914,-6.892610762&label=BR3010000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183326914&mlon=-6.892610762#map=18/37.183326914/-6.892610762"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183326914&mlon=-6.892610762#map=18/37.183326914/-6.892610762",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.183326914&lng=-6.892610762&zoom=18"
     },
     {
         "nombre": "BR3020000",
@@ -1221,7 +1288,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.182680291,-6.891934968&label=BR3020000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.182680291&mlon=-6.891934968#map=18/37.182680291/-6.891934968"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.182680291&mlon=-6.891934968#map=18/37.182680291/-6.891934968",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.182680291&lng=-6.891934968&zoom=18"
     },
     {
         "nombre": "BR3030000",
@@ -1239,7 +1307,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.182242711,-6.891069522&label=BR3030000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.182242711&mlon=-6.891069522#map=18/37.182242711/-6.891069522"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.182242711&mlon=-6.891069522#map=18/37.182242711/-6.891069522",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.182242711&lng=-6.891069522&zoom=18"
     },
     {
         "nombre": "BR3040000",
@@ -1257,7 +1326,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.182778469,-6.890622762&label=BR3040000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.182778469&mlon=-6.890622762#map=18/37.182778469/-6.890622762"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.182778469&mlon=-6.890622762#map=18/37.182778469/-6.890622762",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.182778469&lng=-6.890622762&zoom=18"
     },
     {
         "nombre": "BR3050000",
@@ -1275,7 +1345,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.18330621,-6.890277481&label=BR3050000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.18330621&mlon=-6.890277481#map=18/37.18330621/-6.890277481"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.18330621&mlon=-6.890277481#map=18/37.18330621/-6.890277481",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.18330621&lng=-6.890277481&zoom=18"
     },
     {
         "nombre": "BR3060000",
@@ -1293,7 +1364,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.183608867,-6.889680524&label=BR3060000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183608867&mlon=-6.889680524#map=18/37.183608867/-6.889680524"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183608867&mlon=-6.889680524#map=18/37.183608867/-6.889680524",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.183608867&lng=-6.889680524&zoom=18"
     },
     {
         "nombre": "BR3070000",
@@ -1311,7 +1383,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.184197197,-6.889439034&label=BR3070000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184197197&mlon=-6.889439034#map=18/37.184197197/-6.889439034"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184197197&mlon=-6.889439034#map=18/37.184197197/-6.889439034",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.184197197&lng=-6.889439034&zoom=18"
     },
     {
         "nombre": "BR3080000",
@@ -1329,7 +1402,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.184456353,-6.890092599&label=BR3080000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184456353&mlon=-6.890092599#map=18/37.184456353/-6.890092599"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184456353&mlon=-6.890092599#map=18/37.184456353/-6.890092599",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.184456353&lng=-6.890092599&zoom=18"
     },
     {
         "nombre": "BR3090000",
@@ -1347,7 +1421,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.184975492,-6.890540977&label=BR3090000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184975492&mlon=-6.890540977#map=18/37.184975492/-6.890540977"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184975492&mlon=-6.890540977#map=18/37.184975492/-6.890540977",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.184975492&lng=-6.890540977&zoom=18"
     },
     {
         "nombre": "BR3100000",
@@ -1365,7 +1440,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.185308254,-6.891200558&label=BR3100000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185308254&mlon=-6.891200558#map=18/37.185308254/-6.891200558"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185308254&mlon=-6.891200558#map=18/37.185308254/-6.891200558",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.185308254&lng=-6.891200558&zoom=18"
     },
     {
         "nombre": "BR3110000",
@@ -1383,7 +1459,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.186169286,-6.891759711&label=BR3110000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186169286&mlon=-6.891759711#map=18/37.186169286/-6.891759711"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186169286&mlon=-6.891759711#map=18/37.186169286/-6.891759711",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.186169286&lng=-6.891759711&zoom=18"
     },
     {
         "nombre": "BR3120000",
@@ -1401,7 +1478,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.186722448,-6.892729601&label=BR3120000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186722448&mlon=-6.892729601#map=18/37.186722448/-6.892729601"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186722448&mlon=-6.892729601#map=18/37.186722448/-6.892729601",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.186722448&lng=-6.892729601&zoom=18"
     },
     {
         "nombre": "BR3130000",
@@ -1419,7 +1497,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.186227979,-6.893288398&label=BR3130000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186227979&mlon=-6.893288398#map=18/37.186227979/-6.893288398"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186227979&mlon=-6.893288398#map=18/37.186227979/-6.893288398",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.186227979&lng=-6.893288398&zoom=18"
     },
     {
         "nombre": "BR3140000",
@@ -1437,7 +1516,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.185736518,-6.893831548&label=BR3140000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185736518&mlon=-6.893831548#map=18/37.185736518/-6.893831548"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185736518&mlon=-6.893831548#map=18/37.185736518/-6.893831548",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.185736518&lng=-6.893831548&zoom=18"
     },
     {
         "nombre": "BR3150000",
@@ -1455,7 +1535,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.185405342,-6.893150381&label=BR3150000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185405342&mlon=-6.893150381#map=18/37.185405342/-6.893150381"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185405342&mlon=-6.893150381#map=18/37.185405342/-6.893150381",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.185405342&lng=-6.893150381&zoom=18"
     },
     {
         "nombre": "BR3160000",
@@ -1473,7 +1554,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.184905569,-6.893883897&label=BR3160000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184905569&mlon=-6.893883897#map=18/37.184905569/-6.893883897"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184905569&mlon=-6.893883897#map=18/37.184905569/-6.893883897",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.184905569&lng=-6.893883897&zoom=18"
     },
     {
         "nombre": "BR3170000",
@@ -1491,7 +1573,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.184305889,-6.894560703&label=BR3170000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184305889&mlon=-6.894560703#map=18/37.184305889/-6.894560703"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184305889&mlon=-6.894560703#map=18/37.184305889/-6.894560703",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.184305889&lng=-6.894560703&zoom=18"
     },
     {
         "nombre": "BR3180000",
@@ -1509,7 +1592,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.183787233,-6.894993443&label=BR3180000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183787233&mlon=-6.894993443#map=18/37.183787233/-6.894993443"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183787233&mlon=-6.894993443#map=18/37.183787233/-6.894993443",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.183787233&lng=-6.894993443&zoom=18"
     },
     {
         "nombre": "BR3190000",
@@ -1527,7 +1611,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.184440044,-6.895578143&label=BR3190000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184440044&mlon=-6.895578143#map=18/37.184440044/-6.895578143"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184440044&mlon=-6.895578143#map=18/37.184440044/-6.895578143",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.184440044&lng=-6.895578143&zoom=18"
     },
     {
         "nombre": "BR4000000",
@@ -1545,7 +1630,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.175560404,-6.898663908&label=BR4000000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.175560404&mlon=-6.898663908#map=18/37.175560404/-6.898663908"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.175560404&mlon=-6.898663908#map=18/37.175560404/-6.898663908",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.175560404&lng=-6.898663908&zoom=18"
     },
     {
         "nombre": "BR4010000",
@@ -1563,7 +1649,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.174883024,-6.899216689&label=BR4010000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.174883024&mlon=-6.899216689#map=18/37.174883024/-6.899216689"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.174883024&mlon=-6.899216689#map=18/37.174883024/-6.899216689",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.174883024&lng=-6.899216689&zoom=18"
     },
     {
         "nombre": "BR4020000",
@@ -1581,7 +1668,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.174433229,-6.899666016&label=BR4020000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.174433229&mlon=-6.899666016#map=18/37.174433229/-6.899666016"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.174433229&mlon=-6.899666016#map=18/37.174433229/-6.899666016",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.174433229&lng=-6.899666016&zoom=18"
     },
     {
         "nombre": "BR4030000",
@@ -1599,7 +1687,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.174038474,-6.900265478&label=BR4030000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.174038474&mlon=-6.900265478#map=18/37.174038474/-6.900265478"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.174038474&mlon=-6.900265478#map=18/37.174038474/-6.900265478",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.174038474&lng=-6.900265478&zoom=18"
     },
     {
         "nombre": "BR4040000",
@@ -1617,7 +1706,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.172855336,-6.900575525&label=BR4040000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.172855336&mlon=-6.900575525#map=18/37.172855336/-6.900575525"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.172855336&mlon=-6.900575525#map=18/37.172855336/-6.900575525",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.172855336&lng=-6.900575525&zoom=18"
     },
     {
         "nombre": "BR4050000",
@@ -1635,7 +1725,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.172037344,-6.901046024&label=BR4050000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.172037344&mlon=-6.901046024#map=18/37.172037344/-6.901046024"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.172037344&mlon=-6.901046024#map=18/37.172037344/-6.901046024",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.172037344&lng=-6.901046024&zoom=18"
     },
     {
         "nombre": "BR4060000",
@@ -1653,7 +1744,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.171426413,-6.901722583&label=BR4060000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.171426413&mlon=-6.901722583#map=18/37.171426413/-6.901722583"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.171426413&mlon=-6.901722583#map=18/37.171426413/-6.901722583",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.171426413&lng=-6.901722583&zoom=18"
     },
     {
         "nombre": "BR4070000",
@@ -1671,7 +1763,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.170506109,-6.902429928&label=BR4070000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.170506109&mlon=-6.902429928#map=18/37.170506109/-6.902429928"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.170506109&mlon=-6.902429928#map=18/37.170506109/-6.902429928",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.170506109&lng=-6.902429928&zoom=18"
     },
     {
         "nombre": "BR4080000",
@@ -1689,7 +1782,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.169772129,-6.903153245&label=BR4080000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.169772129&mlon=-6.903153245#map=18/37.169772129/-6.903153245"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.169772129&mlon=-6.903153245#map=18/37.169772129/-6.903153245",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.169772129&lng=-6.903153245&zoom=18"
     },
     {
         "nombre": "BR4090000",
@@ -1707,7 +1801,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.169190348,-6.903697308&label=BR4090000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.169190348&mlon=-6.903697308#map=18/37.169190348/-6.903697308"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.169190348&mlon=-6.903697308#map=18/37.169190348/-6.903697308",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.169190348&lng=-6.903697308&zoom=18"
     },
     {
         "nombre": "BR4100000",
@@ -1725,7 +1820,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.168659771,-6.90282823&label=BR4100000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.168659771&mlon=-6.90282823#map=18/37.168659771/-6.90282823"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.168659771&mlon=-6.90282823#map=18/37.168659771/-6.90282823",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.168659771&lng=-6.90282823&zoom=18"
     },
     {
         "nombre": "BR4110000",
@@ -1743,7 +1839,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.168486626,-6.902111798&label=BR4110000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.168486626&mlon=-6.902111798#map=18/37.168486626/-6.902111798"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.168486626&mlon=-6.902111798#map=18/37.168486626/-6.902111798",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.168486626&lng=-6.902111798&zoom=18"
     },
     {
         "nombre": "BR4120000",
@@ -1761,7 +1858,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.167878123,-6.901592095&label=BR4120000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.167878123&mlon=-6.901592095#map=18/37.167878123/-6.901592095"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.167878123&mlon=-6.901592095#map=18/37.167878123/-6.901592095",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.167878123&lng=-6.901592095&zoom=18"
     },
     {
         "nombre": "BR4130000",
@@ -1779,7 +1877,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.168167724,-6.900597812&label=BR4130000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.168167724&mlon=-6.900597812#map=18/37.168167724/-6.900597812"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.168167724&mlon=-6.900597812#map=18/37.168167724/-6.900597812",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.168167724&lng=-6.900597812&zoom=18"
     },
     {
         "nombre": "BR4140000",
@@ -1797,7 +1896,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.1685484,-6.901419503&label=BR4140000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.1685484&mlon=-6.901419503#map=18/37.1685484/-6.901419503"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.1685484&mlon=-6.901419503#map=18/37.1685484/-6.901419503",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.1685484&lng=-6.901419503&zoom=18"
     },
     {
         "nombre": "BR4150000",
@@ -1815,7 +1915,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.16928578,-6.902394986&label=BR4150000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.16928578&mlon=-6.902394986#map=18/37.16928578/-6.902394986"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.16928578&mlon=-6.902394986#map=18/37.16928578/-6.902394986",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.16928578&lng=-6.902394986&zoom=18"
     },
     {
         "nombre": "BR4160000",
@@ -1833,7 +1934,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.169340824,-6.901781051&label=BR4160000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.169340824&mlon=-6.901781051#map=18/37.169340824/-6.901781051"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.169340824&mlon=-6.901781051#map=18/37.169340824/-6.901781051",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.169340824&lng=-6.901781051&zoom=18"
     },
     {
         "nombre": "BR4170000",
@@ -1851,7 +1953,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.16894638,-6.900926867&label=BR4170000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.16894638&mlon=-6.900926867#map=18/37.16894638/-6.900926867"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.16894638&mlon=-6.900926867#map=18/37.16894638/-6.900926867",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.16894638&lng=-6.900926867&zoom=18"
     },
     {
         "nombre": "BR4180000",
@@ -1869,7 +1972,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.1686302,-6.899581988&label=BR4180000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.1686302&mlon=-6.899581988#map=18/37.1686302/-6.899581988"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.1686302&mlon=-6.899581988#map=18/37.1686302/-6.899581988",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.1686302&lng=-6.899581988&zoom=18"
     },
     {
         "nombre": "BR4190000",
@@ -1887,7 +1991,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.169372727,-6.899034381&label=BR4190000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.169372727&mlon=-6.899034381#map=18/37.169372727/-6.899034381"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.169372727&mlon=-6.899034381#map=18/37.169372727/-6.899034381",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.169372727&lng=-6.899034381&zoom=18"
     },
     {
         "nombre": "BR4200000",
@@ -1905,7 +2010,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.169914402,-6.898409742&label=BR4200000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.169914402&mlon=-6.898409742#map=18/37.169914402/-6.898409742"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.169914402&mlon=-6.898409742#map=18/37.169914402/-6.898409742",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.169914402&lng=-6.898409742&zoom=18"
     },
     {
         "nombre": "BR4210000",
@@ -1923,7 +2029,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.170584747,-6.897769444&label=BR4210000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.170584747&mlon=-6.897769444#map=18/37.170584747/-6.897769444"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.170584747&mlon=-6.897769444#map=18/37.170584747/-6.897769444",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.170584747&lng=-6.897769444&zoom=18"
     },
     {
         "nombre": "BR4220000",
@@ -1941,7 +2048,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.171335114,-6.897198442&label=BR4220000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.171335114&mlon=-6.897198442#map=18/37.171335114/-6.897198442"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.171335114&mlon=-6.897198442#map=18/37.171335114/-6.897198442",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.171335114&lng=-6.897198442&zoom=18"
     },
     {
         "nombre": "BR4230000",
@@ -1959,7 +2067,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.172140983,-6.897157654&label=BR4230000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.172140983&mlon=-6.897157654#map=18/37.172140983/-6.897157654"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.172140983&mlon=-6.897157654#map=18/37.172140983/-6.897157654",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.172140983&lng=-6.897157654&zoom=18"
     },
     {
         "nombre": "BR4240000",
@@ -1977,7 +2086,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.1718018,-6.896730935&label=BR4240000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.1718018&mlon=-6.896730935#map=18/37.1718018/-6.896730935"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.1718018&mlon=-6.896730935#map=18/37.1718018/-6.896730935",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.1718018&lng=-6.896730935&zoom=18"
     },
     {
         "nombre": "BR4250000",
@@ -1995,7 +2105,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.172829409,-6.895797918&label=BR4250000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.172829409&mlon=-6.895797918#map=18/37.172829409/-6.895797918"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.172829409&mlon=-6.895797918#map=18/37.172829409/-6.895797918",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.172829409&lng=-6.895797918&zoom=18"
     },
     {
         "nombre": "BR4260000",
@@ -2013,7 +2124,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.17345623,-6.895032042&label=BR4260000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.17345623&mlon=-6.895032042#map=18/37.17345623/-6.895032042"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.17345623&mlon=-6.895032042#map=18/37.17345623/-6.895032042",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.17345623&lng=-6.895032042&zoom=18"
     },
     {
         "nombre": "BR4270000",
@@ -2031,7 +2143,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.174121272,-6.894611159&label=BR4270000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.174121272&mlon=-6.894611159#map=18/37.174121272/-6.894611159"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.174121272&mlon=-6.894611159#map=18/37.174121272/-6.894611159",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.174121272&lng=-6.894611159&zoom=18"
     },
     {
         "nombre": "BR4280000",
@@ -2049,7 +2162,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.174670693,-6.895493626&label=BR4280000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.174670693&mlon=-6.895493626#map=18/37.174670693/-6.895493626"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.174670693&mlon=-6.895493626#map=18/37.174670693/-6.895493626",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.174670693&lng=-6.895493626&zoom=18"
     },
     {
         "nombre": "BR4290000",
@@ -2067,7 +2181,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.175261583,-6.896218739&label=BR4290000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.175261583&mlon=-6.896218739#map=18/37.175261583/-6.896218739"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.175261583&mlon=-6.896218739#map=18/37.175261583/-6.896218739",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.175261583&lng=-6.896218739&zoom=18"
     },
     {
         "nombre": "BR4300000",
@@ -2085,7 +2200,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.175716351,-6.896855452&label=BR4300000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.175716351&mlon=-6.896855452#map=18/37.175716351/-6.896855452"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.175716351&mlon=-6.896855452#map=18/37.175716351/-6.896855452",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.175716351&lng=-6.896855452&zoom=18"
     },
     {
         "nombre": "BR4310000",
@@ -2103,7 +2219,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.176396613,-6.896160616&label=BR4310000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.176396613&mlon=-6.896160616#map=18/37.176396613/-6.896160616"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.176396613&mlon=-6.896160616#map=18/37.176396613/-6.896160616",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.176396613&lng=-6.896160616&zoom=18"
     },
     {
         "nombre": "BR4320000",
@@ -2121,7 +2238,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.177044981,-6.895395583&label=BR4320000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.177044981&mlon=-6.895395583#map=18/37.177044981/-6.895395583"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.177044981&mlon=-6.895395583#map=18/37.177044981/-6.895395583",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.177044981&lng=-6.895395583&zoom=18"
     },
     {
         "nombre": "BR5000000",
@@ -2139,7 +2257,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.18455415,-6.910498133&label=BR5000000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.18455415&mlon=-6.910498133#map=18/37.18455415/-6.910498133"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.18455415&mlon=-6.910498133#map=18/37.18455415/-6.910498133",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.18455415&lng=-6.910498133&zoom=18"
     },
     {
         "nombre": "BR5010000",
@@ -2157,7 +2276,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.185624458,-6.911879273&label=BR5010000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185624458&mlon=-6.911879273#map=18/37.185624458/-6.911879273"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185624458&mlon=-6.911879273#map=18/37.185624458/-6.911879273",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.185624458&lng=-6.911879273&zoom=18"
     },
     {
         "nombre": "BR5020000",
@@ -2175,7 +2295,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.186578814,-6.913710689&label=BR5020000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186578814&mlon=-6.913710689#map=18/37.186578814/-6.913710689"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186578814&mlon=-6.913710689#map=18/37.186578814/-6.913710689",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.186578814&lng=-6.913710689&zoom=18"
     },
     {
         "nombre": "BR5030000",
@@ -2193,7 +2314,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.186667304,-6.916709051&label=BR5030000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186667304&mlon=-6.916709051#map=18/37.186667304/-6.916709051"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186667304&mlon=-6.916709051#map=18/37.186667304/-6.916709051",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.186667304&lng=-6.916709051&zoom=18"
     },
     {
         "nombre": "BR5040000",
@@ -2211,7 +2333,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.188110332,-6.918375129&label=BR5040000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.188110332&mlon=-6.918375129#map=18/37.188110332/-6.918375129"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.188110332&mlon=-6.918375129#map=18/37.188110332/-6.918375129",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.188110332&lng=-6.918375129&zoom=18"
     },
     {
         "nombre": "BR5050000",
@@ -2229,7 +2352,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.188769836,-6.91930667&label=BR5050000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.188769836&mlon=-6.91930667#map=18/37.188769836/-6.91930667"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.188769836&mlon=-6.91930667#map=18/37.188769836/-6.91930667",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.188769836&lng=-6.91930667&zoom=18"
     },
     {
         "nombre": "BR5060000",
@@ -2247,7 +2371,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.190398946,-6.920837728&label=BR5060000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.190398946&mlon=-6.920837728#map=18/37.190398946/-6.920837728"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.190398946&mlon=-6.920837728#map=18/37.190398946/-6.920837728",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.190398946&lng=-6.920837728&zoom=18"
     },
     {
         "nombre": "BR5070000",
@@ -2265,7 +2390,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.19157583,-6.922422049&label=BR5070000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.19157583&mlon=-6.922422049#map=18/37.19157583/-6.922422049"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.19157583&mlon=-6.922422049#map=18/37.19157583/-6.922422049",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.19157583&lng=-6.922422049&zoom=18"
     },
     {
         "nombre": "BR5080000",
@@ -2283,7 +2409,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.190500807,-6.923965403&label=BR5080000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.190500807&mlon=-6.923965403#map=18/37.190500807/-6.923965403"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.190500807&mlon=-6.923965403#map=18/37.190500807/-6.923965403",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.190500807&lng=-6.923965403&zoom=18"
     },
     {
         "nombre": "BR5090000",
@@ -2301,7 +2428,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.189245146,-6.9253314&label=BR5090000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.189245146&mlon=-6.9253314#map=18/37.189245146/-6.9253314"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.189245146&mlon=-6.9253314#map=18/37.189245146/-6.9253314",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.189245146&lng=-6.9253314&zoom=18"
     },
     {
         "nombre": "BR5100000",
@@ -2319,7 +2447,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.19043797,-6.926890617&label=BR5100000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.19043797&mlon=-6.926890617#map=18/37.19043797/-6.926890617"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.19043797&mlon=-6.926890617#map=18/37.19043797/-6.926890617",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.19043797&lng=-6.926890617&zoom=18"
     },
     {
         "nombre": "BR5110000",
@@ -2337,7 +2466,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.192188939,-6.928357134&label=BR5110000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.192188939&mlon=-6.928357134#map=18/37.192188939/-6.928357134"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.192188939&mlon=-6.928357134#map=18/37.192188939/-6.928357134",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.192188939&lng=-6.928357134&zoom=18"
     },
     {
         "nombre": "BR5120000",
@@ -2355,7 +2485,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.194374325,-6.929547016&label=BR5120000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.194374325&mlon=-6.929547016#map=18/37.194374325/-6.929547016"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.194374325&mlon=-6.929547016#map=18/37.194374325/-6.929547016",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.194374325&lng=-6.929547016&zoom=18"
     },
     {
         "nombre": "BR5130000",
@@ -2373,7 +2504,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.1963697,-6.93075049&label=BR5130000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.1963697&mlon=-6.93075049#map=18/37.1963697/-6.93075049"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.1963697&mlon=-6.93075049#map=18/37.1963697/-6.93075049",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.1963697&lng=-6.93075049&zoom=18"
     },
     {
         "nombre": "BR5140000",
@@ -2391,7 +2523,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.198271555,-6.931775763&label=BR5140000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.198271555&mlon=-6.931775763#map=18/37.198271555/-6.931775763"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.198271555&mlon=-6.931775763#map=18/37.198271555/-6.931775763",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.198271555&lng=-6.931775763&zoom=18"
     },
     {
         "nombre": "BR5150000",
@@ -2409,7 +2542,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.200147691,-6.932499123&label=BR5150000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.200147691&mlon=-6.932499123#map=18/37.200147691/-6.932499123"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.200147691&mlon=-6.932499123#map=18/37.200147691/-6.932499123",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.200147691&lng=-6.932499123&zoom=18"
     },
     {
         "nombre": "BR5160000",
@@ -2427,7 +2561,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.201731107,-6.934095545&label=BR5160000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.201731107&mlon=-6.934095545#map=18/37.201731107/-6.934095545"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.201731107&mlon=-6.934095545#map=18/37.201731107/-6.934095545",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.201731107&lng=-6.934095545&zoom=18"
     },
     {
         "nombre": "BR5170000",
@@ -2445,7 +2580,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.202731844,-6.935971263&label=BR5170000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.202731844&mlon=-6.935971263#map=18/37.202731844/-6.935971263"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.202731844&mlon=-6.935971263#map=18/37.202731844/-6.935971263",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.202731844&lng=-6.935971263&zoom=18"
     },
     {
         "nombre": "BR5180000",
@@ -2463,7 +2599,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.204031151,-6.93698057&label=BR5180000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.204031151&mlon=-6.93698057#map=18/37.204031151/-6.93698057"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.204031151&mlon=-6.93698057#map=18/37.204031151/-6.93698057",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.204031151&lng=-6.93698057&zoom=18"
     },
     {
         "nombre": "BR5190000",
@@ -2481,7 +2618,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.202412025,-6.936944042&label=BR5190000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.202412025&mlon=-6.936944042#map=18/37.202412025/-6.936944042"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.202412025&mlon=-6.936944042#map=18/37.202412025/-6.936944042",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.202412025&lng=-6.936944042&zoom=18"
     },
     {
         "nombre": "BR5200000",
@@ -2499,7 +2637,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.201088839,-6.936031139&label=BR5200000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.201088839&mlon=-6.936031139#map=18/37.201088839/-6.936031139"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.201088839&mlon=-6.936031139#map=18/37.201088839/-6.936031139",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.201088839&lng=-6.936031139&zoom=18"
     },
     {
         "nombre": "BR5181000",
@@ -2517,7 +2656,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.203988687,-6.93888269&label=BR5181000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.203988687&mlon=-6.93888269#map=18/37.203988687/-6.93888269"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.203988687&mlon=-6.93888269#map=18/37.203988687/-6.93888269",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.203988687&lng=-6.93888269&zoom=18"
     },
     {
         "nombre": "BR5183000",
@@ -2535,7 +2675,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.205046803,-6.938949969&label=BR5183000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.205046803&mlon=-6.938949969#map=18/37.205046803/-6.938949969"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.205046803&mlon=-6.938949969#map=18/37.205046803/-6.938949969",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.205046803&lng=-6.938949969&zoom=18"
     },
     {
         "nombre": "BR5182000",
@@ -2553,7 +2694,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.202862288,-6.938873729&label=BR5182000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.202862288&mlon=-6.938873729#map=18/37.202862288/-6.938873729"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.202862288&mlon=-6.938873729#map=18/37.202862288/-6.938873729",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.202862288&lng=-6.938873729&zoom=18"
     },
     {
         "nombre": "BR6000000",
@@ -2571,7 +2713,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.170502784,-6.895454491&label=BR6000000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.170502784&mlon=-6.895454491#map=18/37.170502784/-6.895454491"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.170502784&mlon=-6.895454491#map=18/37.170502784/-6.895454491",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.170502784&lng=-6.895454491&zoom=18"
     },
     {
         "nombre": "BR6010000",
@@ -2589,7 +2732,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.16969316,-6.895054167&label=BR6010000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.16969316&mlon=-6.895054167#map=18/37.16969316/-6.895054167"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.16969316&mlon=-6.895054167#map=18/37.16969316/-6.895054167",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.16969316&lng=-6.895054167&zoom=18"
     },
     {
         "nombre": "BR6020000",
@@ -2607,7 +2751,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.169214639,-6.895627208&label=BR6020000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.169214639&mlon=-6.895627208#map=18/37.169214639/-6.895627208"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.169214639&mlon=-6.895627208#map=18/37.169214639/-6.895627208",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.169214639&lng=-6.895627208&zoom=18"
     },
     {
         "nombre": "BR6030000",
@@ -2625,7 +2770,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.168561417,-6.896156165&label=BR6030000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.168561417&mlon=-6.896156165#map=18/37.168561417/-6.896156165"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.168561417&mlon=-6.896156165#map=18/37.168561417/-6.896156165",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.168561417&lng=-6.896156165&zoom=18"
     },
     {
         "nombre": "BR6040000",
@@ -2643,7 +2789,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.167972829,-6.896787097&label=BR6040000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.167972829&mlon=-6.896787097#map=18/37.167972829/-6.896787097"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.167972829&mlon=-6.896787097#map=18/37.167972829/-6.896787097",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.167972829&lng=-6.896787097&zoom=18"
     },
     {
         "nombre": "BR6050000",
@@ -2661,7 +2808,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.167011511,-6.897298921&label=BR6050000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.167011511&mlon=-6.897298921#map=18/37.167011511/-6.897298921"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.167011511&mlon=-6.897298921#map=18/37.167011511/-6.897298921",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.167011511&lng=-6.897298921&zoom=18"
     },
     {
         "nombre": "BR6060000",
@@ -2679,7 +2827,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.166400851,-6.896015908&label=BR6060000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.166400851&mlon=-6.896015908#map=18/37.166400851/-6.896015908"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.166400851&mlon=-6.896015908#map=18/37.166400851/-6.896015908",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.166400851&lng=-6.896015908&zoom=18"
     },
     {
         "nombre": "BR6070000",
@@ -2697,7 +2846,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.16540191,-6.894419601&label=BR6070000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.16540191&mlon=-6.894419601#map=18/37.16540191/-6.894419601"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.16540191&mlon=-6.894419601#map=18/37.16540191/-6.894419601",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.16540191&lng=-6.894419601&zoom=18"
     },
     {
         "nombre": "BR6080000",
@@ -2715,7 +2865,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.164122392,-6.892673032&label=BR6080000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.164122392&mlon=-6.892673032#map=18/37.164122392/-6.892673032"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.164122392&mlon=-6.892673032#map=18/37.164122392/-6.892673032",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.164122392&lng=-6.892673032&zoom=18"
     },
     {
         "nombre": "BR6090000",
@@ -2733,7 +2884,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.16344216,-6.891197133&label=BR6090000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.16344216&mlon=-6.891197133#map=18/37.16344216/-6.891197133"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.16344216&mlon=-6.891197133#map=18/37.16344216/-6.891197133",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.16344216&lng=-6.891197133&zoom=18"
     },
     {
         "nombre": "BR6100000",
@@ -2751,7 +2903,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.162663521,-6.892430057&label=BR6100000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.162663521&mlon=-6.892430057#map=18/37.162663521/-6.892430057"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.162663521&mlon=-6.892430057#map=18/37.162663521/-6.892430057",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.162663521&lng=-6.892430057&zoom=18"
     },
     {
         "nombre": "BR6110000",
@@ -2769,7 +2922,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.161804266,-6.893255321&label=BR6110000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.161804266&mlon=-6.893255321#map=18/37.161804266/-6.893255321"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.161804266&mlon=-6.893255321#map=18/37.161804266/-6.893255321",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.161804266&lng=-6.893255321&zoom=18"
     },
     {
         "nombre": "BR6120000",
@@ -2787,7 +2941,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.160731566,-6.891614947&label=BR6120000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.160731566&mlon=-6.891614947#map=18/37.160731566/-6.891614947"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.160731566&mlon=-6.891614947#map=18/37.160731566/-6.891614947",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.160731566&lng=-6.891614947&zoom=18"
     },
     {
         "nombre": "BR6130000",
@@ -2805,7 +2960,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.159647218,-6.890125394&label=BR6130000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.159647218&mlon=-6.890125394#map=18/37.159647218/-6.890125394"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.159647218&mlon=-6.890125394#map=18/37.159647218/-6.890125394",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.159647218&lng=-6.890125394&zoom=18"
     },
     {
         "nombre": "BR6140000",
@@ -2823,7 +2979,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.158769002,-6.888545199&label=BR6140000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.158769002&mlon=-6.888545199#map=18/37.158769002/-6.888545199"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.158769002&mlon=-6.888545199#map=18/37.158769002/-6.888545199",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.158769002&lng=-6.888545199&zoom=18"
     },
     {
         "nombre": "BR6150000",
@@ -2841,7 +2998,8 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.159135969,-6.892997681&label=BR6150000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.159135969&mlon=-6.892997681#map=18/37.159135969/-6.892997681"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.159135969&mlon=-6.892997681#map=18/37.159135969/-6.892997681",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.159135969&lng=-6.892997681&zoom=18"
     },
     {
         "nombre": "BR6160000",
@@ -2859,6 +3017,7 @@
             "fecha de construccion": 2024
         },
         "enlace_google": "https://www.google.com/maps?q=37.159970149,-6.892632818&label=BR6160000",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.159970149&mlon=-6.892632818#map=18/37.159970149/-6.892632818"
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.159970149&mlon=-6.892632818#map=18/37.159970149/-6.892632818",
+        "enlace_mapa": "https://elzuma.github.io/mapa_prueba/index.html?lat=37.159970149&lng=-6.892632818&zoom=18"
     }
 ]
