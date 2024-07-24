@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Mapa Interactivo con Información Detallada</title>
+    <title>Mapa Interactivo con Mapbox</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
@@ -55,20 +55,21 @@
             initialLayer = queryParams.layer;
         }
 
+        // Inicializar el mapa con Mapbox
         var map = L.map('map').setView([initialLat, initialLng], initialZoom);
 
         // Reemplaza 'YOUR_MAPBOX_ACCESS_TOKEN' con tu token de Mapbox
-        const accessToken = 'pk.eyJ1IjoiZWx6dW1hIiwiYSI6ImNseXptNWY3NDJibm0ya3M2NmQ4cHNjYXYifQ.4t4qNdUm7K5qKW_S9VEZDQ';
+        const accessToken = 'YOUR_MAPBOX_ACCESS_TOKEN';
 
-        // Definir las capas
+        // Definir las capas de Mapbox
         var layers = {
             'satellite': L.tileLayer(`https://api.mapbox.com/styles/v1/mapbox/satellite-v9/tiles/512/{z}/{x}/{y}@2x?access_token=${accessToken}`, {
                 maxZoom: 21,
-                attribution: 'Map data © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>'
+                attribution: 'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>'
             }),
             'streets': L.tileLayer(`https://api.mapbox.com/styles/v1/mapbox/streets-v11/tiles/512/{z}/{x}/{y}@2x?access_token=${accessToken}`, {
                 maxZoom: 21,
-                attribution: 'Map data © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>'
+                attribution: 'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>'
             })
         };
 
@@ -81,15 +82,8 @@
 
         // Cargar puntos desde el archivo JSON
         fetch('puntos.json')
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error('Network response was not ok');
-                }
-                return response.json();
-            })
+            .then(response => response.json())
             .then(puntos => {
-                console.log('Puntos cargados:', puntos); // Mensaje de depuración
-
                 puntos.forEach(function(punto) {
                     if (!punto.lat || !punto.lng || !punto.nombre) {
                         console.error('Punto inválido:', punto);
@@ -116,13 +110,9 @@
                     
                     L.marker([punto.lat, punto.lng]).addTo(map)
                         .bindPopup(popupContent);
-
-                    console.log('Punto añadido:', punto); // Mensaje de depuración
                 });
             })
-            .catch(error => {
-                console.error('Hubo un problema con la carga del archivo JSON:', error);
-            });
+            .catch(error => console.error('Hubo un problema con la carga del archivo JSON:', error));
     </script>
 </body>
 </html>
