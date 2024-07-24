@@ -1,8 +1,8 @@
 [
     {
         "nombre": "VR15",
-        "lat": 37.184,
-        "lng": -6.902,
+        "lat": 37.184249733,
+        "lng": -6.901689535,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686259.287,
@@ -13,13 +13,13 @@
             "Y_rlr": 850.09,
             "Z_rlr": 16.035
         },
-        "enlace_google": "https://www.google.com/maps?q=37.184,-6.902",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184&mlon=-6.902#map=21/37.184/-6.902"
+        "enlace_google": "https://www.google.com/maps?q=37.184249733,-6.901689535",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184249733&mlon=-6.901689535#map=21/37.184249733/-6.901689535"
     },
     {
         "nombre": "VR19",
-        "lat": 37.184,
-        "lng": -6.901,
+        "lat": 37.183944,
+        "lng": -6.901266739,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686297.573,
@@ -30,13 +30,13 @@
             "Y_rlr": 850.087,
             "Z_rlr": 16.031
         },
-        "enlace_google": "https://www.google.com/maps?q=37.184,-6.901",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184&mlon=-6.901#map=21/37.184/-6.901"
+        "enlace_google": "https://www.google.com/maps?q=37.183944,-6.901266739",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183944&mlon=-6.901266739#map=21/37.183944/-6.901266739"
     },
     {
         "nombre": "BR1000000",
-        "lat": 37.183,
-        "lng": -6.901,
+        "lat": 37.183398787,
+        "lng": -6.900520731,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686365.142,
@@ -47,13 +47,13 @@
             "Y_rlr": 849.609,
             "Z_rlr": 16.053
         },
-        "enlace_google": "https://www.google.com/maps?q=37.183,-6.901",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183&mlon=-6.901#map=21/37.183/-6.901"
+        "enlace_google": "https://www.google.com/maps?q=37.183398787,-6.900520731",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183398787&mlon=-6.900520731#map=21/37.183398787/-6.900520731"
     },
     {
         "nombre": "BR1010000",
-        "lat": 37.184,
-        "lng": -6.9,
+        "lat": 37.183745272,
+        "lng": -6.900310208,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686382.98,
@@ -64,13 +64,13 @@
             "Y_rlr": 890.673,
             "Z_rlr": 15.986
         },
-        "enlace_google": "https://www.google.com/maps?q=37.184,-6.9",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184&mlon=-6.9#map=21/37.184/-6.9"
+        "enlace_google": "https://www.google.com/maps?q=37.183745272,-6.900310208",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183745272&mlon=-6.900310208#map=21/37.183745272/-6.900310208"
     },
     {
         "nombre": "BR1020000",
-        "lat": 37.184,
-        "lng": -6.9,
+        "lat": 37.184048547,
+        "lng": -6.899692374,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686437.084,
@@ -81,13 +81,13 @@
             "Y_rlr": 952.43,
             "Z_rlr": 16.076
         },
-        "enlace_google": "https://www.google.com/maps?q=37.184,-6.9",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184&mlon=-6.9#map=21/37.184/-6.9"
+        "enlace_google": "https://www.google.com/maps?q=37.184048547,-6.899692374",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184048547&mlon=-6.899692374#map=21/37.184048547/-6.899692374"
     },
     {
         "nombre": "BR1030000",
-        "lat": 37.185,
-        "lng": -6.9,
+        "lat": 37.184680559,
+        "lng": -6.900466087,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686366.842,
@@ -98,13 +98,13 @@
             "Y_rlr": 958.405,
             "Z_rlr": 16.141
         },
-        "enlace_google": "https://www.google.com/maps?q=37.185,-6.9",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185&mlon=-6.9#map=21/37.185/-6.9"
+        "enlace_google": "https://www.google.com/maps?q=37.184680559,-6.900466087",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184680559&mlon=-6.900466087#map=21/37.184680559/-6.900466087"
     },
     {
         "nombre": "BR1040000",
-        "lat": 37.185,
-        "lng": -6.901,
+        "lat": 37.184925183,
+        "lng": -6.900910807,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686326.76,
@@ -115,13 +115,13 @@
             "Y_rlr": 952.071,
             "Z_rlr": 16.053
         },
-        "enlace_google": "https://www.google.com/maps?q=37.185,-6.901",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185&mlon=-6.901#map=21/37.185/-6.901"
+        "enlace_google": "https://www.google.com/maps?q=37.184925183,-6.900910807",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184925183&mlon=-6.900910807#map=21/37.184925183/-6.900910807"
     },
     {
         "nombre": "BR1050000",
-        "lat": 37.185,
-        "lng": -6.902,
+        "lat": 37.185463827,
+        "lng": -6.901502906,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686272.872,
@@ -132,13 +132,13 @@
             "Y_rlr": 961.172,
             "Z_rlr": 16.057
         },
-        "enlace_google": "https://www.google.com/maps?q=37.185,-6.902",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185&mlon=-6.902#map=21/37.185/-6.902"
+        "enlace_google": "https://www.google.com/maps?q=37.185463827,-6.901502906",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185463827&mlon=-6.901502906#map=21/37.185463827/-6.901502906"
     },
     {
         "nombre": "BR1060000",
-        "lat": 37.186,
-        "lng": -6.902,
+        "lat": 37.185713241,
+        "lng": -6.902036152,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686224.92,
@@ -149,13 +149,13 @@
             "Y_rlr": 949.962,
             "Z_rlr": 16.1
         },
-        "enlace_google": "https://www.google.com/maps?q=37.186,-6.902",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186&mlon=-6.902#map=21/37.186/-6.902"
+        "enlace_google": "https://www.google.com/maps?q=37.185713241,-6.902036152",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185713241&mlon=-6.902036152#map=21/37.185713241/-6.902036152"
     },
     {
         "nombre": "BR1070000",
-        "lat": 37.186,
-        "lng": -6.902,
+        "lat": 37.186133702,
+        "lng": -6.902456959,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686186.53,
@@ -166,13 +166,13 @@
             "Y_rlr": 959.531,
             "Z_rlr": 16.518
         },
-        "enlace_google": "https://www.google.com/maps?q=37.186,-6.902",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186&mlon=-6.902#map=21/37.186/-6.902"
+        "enlace_google": "https://www.google.com/maps?q=37.186133702,-6.902456959",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186133702&mlon=-6.902456959#map=21/37.186133702/-6.902456959"
     },
     {
         "nombre": "BR1080000",
-        "lat": 37.186,
-        "lng": -6.903,
+        "lat": 37.185731569,
+        "lng": -6.902956498,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686143.171,
@@ -183,13 +183,13 @@
             "Y_rlr": 896.678,
             "Z_rlr": 16.059
         },
-        "enlace_google": "https://www.google.com/maps?q=37.186,-6.903",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186&mlon=-6.903#map=21/37.186/-6.903"
+        "enlace_google": "https://www.google.com/maps?q=37.185731569,-6.902956498",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185731569&mlon=-6.902956498#map=21/37.185731569/-6.902956498"
     },
     {
         "nombre": "BR1090000",
-        "lat": 37.185,
-        "lng": -6.903,
+        "lat": 37.185448903,
+        "lng": -6.903372491,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686106.935,
@@ -200,13 +200,13 @@
             "Y_rlr": 848.637,
             "Z_rlr": 16.071
         },
-        "enlace_google": "https://www.google.com/maps?q=37.185,-6.903",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185&mlon=-6.903#map=21/37.185/-6.903"
+        "enlace_google": "https://www.google.com/maps?q=37.185448903,-6.903372491",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185448903&mlon=-6.903372491#map=21/37.185448903/-6.903372491"
     },
     {
         "nombre": "BR1100000",
-        "lat": 37.185,
-        "lng": -6.903,
+        "lat": 37.185006076,
+        "lng": -6.902731826,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686164.898,
@@ -217,13 +217,13 @@
             "Y_rlr": 850.315,
             "Z_rlr": 15.964
         },
-        "enlace_google": "https://www.google.com/maps?q=37.185,-6.903",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185&mlon=-6.903#map=21/37.185/-6.903"
+        "enlace_google": "https://www.google.com/maps?q=37.185006076,-6.902731826",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185006076&mlon=-6.902731826#map=21/37.185006076/-6.902731826"
     },
     {
         "nombre": "BR1110000",
-        "lat": 37.185,
-        "lng": -6.902,
+        "lat": 37.184646329,
+        "lng": -6.902278187,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686206.054,
@@ -234,13 +234,13 @@
             "Y_rlr": 847.7,
             "Z_rlr": 15.999
         },
-        "enlace_google": "https://www.google.com/maps?q=37.185,-6.902",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185&mlon=-6.902#map=21/37.185/-6.902"
+        "enlace_google": "https://www.google.com/maps?q=37.184646329,-6.902278187",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184646329&mlon=-6.902278187#map=21/37.184646329/-6.902278187"
     },
     {
         "nombre": "BR1120000",
-        "lat": 37.184,
-        "lng": -6.901,
+        "lat": 37.183955976,
+        "lng": -6.901304818,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686294.163,
@@ -251,13 +251,13 @@
             "Y_rlr": 848.806,
             "Z_rlr": 15.996
         },
-        "enlace_google": "https://www.google.com/maps?q=37.184,-6.901",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184&mlon=-6.901#map=21/37.184/-6.901"
+        "enlace_google": "https://www.google.com/maps?q=37.183955976,-6.901304818",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183955976&mlon=-6.901304818#map=21/37.183955976/-6.901304818"
     },
     {
         "nombre": "BR2000000",
-        "lat": 37.186,
-        "lng": -6.904,
+        "lat": 37.186312379,
+        "lng": -6.903641138,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686080.966,
@@ -268,13 +268,13 @@
             "Y_rlr": 903.745,
             "Z_rlr": 18.959
         },
-        "enlace_google": "https://www.google.com/maps?q=37.186,-6.904",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186&mlon=-6.904#map=21/37.186/-6.904"
+        "enlace_google": "https://www.google.com/maps?q=37.186312379,-6.903641138",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186312379&mlon=-6.903641138#map=21/37.186312379/-6.903641138"
     },
     {
         "nombre": "BR2010000",
-        "lat": 37.187,
-        "lng": -6.904,
+        "lat": 37.186871968,
+        "lng": -6.904473367,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686005.712,
@@ -285,13 +285,13 @@
             "Y_rlr": 900.278,
             "Z_rlr": 20.017
         },
-        "enlace_google": "https://www.google.com/maps?q=37.187,-6.904",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.187&mlon=-6.904#map=21/37.187/-6.904"
+        "enlace_google": "https://www.google.com/maps?q=37.186871968,-6.904473367",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186871968&mlon=-6.904473367#map=21/37.186871968/-6.904473367"
     },
     {
         "nombre": "BR2020000",
-        "lat": 37.187,
-        "lng": -6.905,
+        "lat": 37.187455598,
+        "lng": -6.905141652,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 685944.954,
@@ -302,13 +302,13 @@
             "Y_rlr": 908.552,
             "Z_rlr": 20.132
         },
-        "enlace_google": "https://www.google.com/maps?q=37.187,-6.905",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.187&mlon=-6.905#map=21/37.187/-6.905"
+        "enlace_google": "https://www.google.com/maps?q=37.187455598,-6.905141652",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.187455598&mlon=-6.905141652#map=21/37.187455598/-6.905141652"
     },
     {
         "nombre": "BR2030000",
-        "lat": 37.188,
-        "lng": -6.906,
+        "lat": 37.188049773,
+        "lng": -6.906046113,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 685863.205,
@@ -319,13 +319,13 @@
             "Y_rlr": 903.636,
             "Z_rlr": 19.981
         },
-        "enlace_google": "https://www.google.com/maps?q=37.188,-6.906",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.188&mlon=-6.906#map=21/37.188/-6.906"
+        "enlace_google": "https://www.google.com/maps?q=37.188049773,-6.906046113",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.188049773&mlon=-6.906046113#map=21/37.188049773/-6.906046113"
     },
     {
         "nombre": "BR2040000",
-        "lat": 37.188,
-        "lng": -6.907,
+        "lat": 37.187557897,
+        "lng": -6.906714977,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 685805.034,
@@ -336,13 +336,13 @@
             "Y_rlr": 823.314,
             "Z_rlr": 21.044
         },
-        "enlace_google": "https://www.google.com/maps?q=37.188,-6.907",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.188&mlon=-6.907#map=21/37.188/-6.907"
+        "enlace_google": "https://www.google.com/maps?q=37.187557897,-6.906714977",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.187557897&mlon=-6.906714977#map=21/37.187557897/-6.906714977"
     },
     {
         "nombre": "BR2050000",
-        "lat": 37.187,
-        "lng": -6.907,
+        "lat": 37.186822956,
+        "lng": -6.907234707,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 685760.697,
@@ -353,13 +353,13 @@
             "Y_rlr": 731.855,
             "Z_rlr": 17.107
         },
-        "enlace_google": "https://www.google.com/maps?q=37.187,-6.907",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.187&mlon=-6.907#map=21/37.187/-6.907"
+        "enlace_google": "https://www.google.com/maps?q=37.186822956,-6.907234707",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186822956&mlon=-6.907234707#map=21/37.186822956/-6.907234707"
     },
     {
         "nombre": "BR2060000",
-        "lat": 37.186,
-        "lng": -6.908,
+        "lat": 37.186229543,
+        "lng": -6.907881415,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 685704.74,
@@ -370,13 +370,13 @@
             "Y_rlr": 644.49,
             "Z_rlr": 14.366
         },
-        "enlace_google": "https://www.google.com/maps?q=37.186,-6.908",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186&mlon=-6.908#map=21/37.186/-6.908"
+        "enlace_google": "https://www.google.com/maps?q=37.186229543,-6.907881415",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186229543&mlon=-6.907881415#map=21/37.186229543/-6.907881415"
     },
     {
         "nombre": "BR2070000",
-        "lat": 37.186,
-        "lng": -6.909,
+        "lat": 37.185711438,
+        "lng": -6.908573694,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 685644.552,
@@ -387,13 +387,13 @@
             "Y_rlr": 560.614,
             "Z_rlr": 14.083
         },
-        "enlace_google": "https://www.google.com/maps?q=37.186,-6.909",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186&mlon=-6.909#map=21/37.186/-6.909"
+        "enlace_google": "https://www.google.com/maps?q=37.185711438,-6.908573694",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185711438&mlon=-6.908573694#map=21/37.185711438/-6.908573694"
     },
     {
         "nombre": "BR2080000",
-        "lat": 37.185,
-        "lng": -6.909,
+        "lat": 37.185012376,
+        "lng": -6.909235854,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 685587.48,
@@ -404,13 +404,13 @@
             "Y_rlr": 463.629,
             "Z_rlr": 14.9
         },
-        "enlace_google": "https://www.google.com/maps?q=37.185,-6.909",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185&mlon=-6.909#map=21/37.185/-6.909"
+        "enlace_google": "https://www.google.com/maps?q=37.185012376,-6.909235854",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185012376&mlon=-6.909235854#map=21/37.185012376/-6.909235854"
     },
     {
         "nombre": "BR2090000",
-        "lat": 37.185,
-        "lng": -6.908,
+        "lat": 37.184532672,
+        "lng": -6.908417457,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 685661.309,
@@ -421,13 +421,13 @@
             "Y_rlr": 472.847,
             "Z_rlr": 14.226
         },
-        "enlace_google": "https://www.google.com/maps?q=37.185,-6.908",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185&mlon=-6.908#map=21/37.185/-6.908"
+        "enlace_google": "https://www.google.com/maps?q=37.184532672,-6.908417457",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184532672&mlon=-6.908417457#map=21/37.184532672/-6.908417457"
     },
     {
         "nombre": "BR2100000",
-        "lat": 37.184,
-        "lng": -6.908,
+        "lat": 37.184003973,
+        "lng": -6.90764968,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 685730.765,
@@ -438,13 +438,13 @@
             "Y_rlr": 475.018,
             "Z_rlr": 13.474
         },
-        "enlace_google": "https://www.google.com/maps?q=37.184,-6.908",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184&mlon=-6.908#map=21/37.184/-6.908"
+        "enlace_google": "https://www.google.com/maps?q=37.184003973,-6.90764968",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184003973&mlon=-6.90764968#map=21/37.184003973/-6.90764968"
     },
     {
         "nombre": "BR2110000",
-        "lat": 37.183,
-        "lng": -6.907,
+        "lat": 37.183443603,
+        "lng": -6.907018283,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 685788.192,
@@ -455,13 +455,13 @@
             "Y_rlr": 466.462,
             "Z_rlr": 13.154
         },
-        "enlace_google": "https://www.google.com/maps?q=37.183,-6.907",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183&mlon=-6.907#map=21/37.183/-6.907"
+        "enlace_google": "https://www.google.com/maps?q=37.183443603,-6.907018283",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183443603&mlon=-6.907018283#map=21/37.183443603/-6.907018283"
     },
     {
         "nombre": "BR2120000",
-        "lat": 37.183,
-        "lng": -6.906,
+        "lat": 37.18303862,
+        "lng": -6.906138447,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 685867.295,
@@ -472,13 +472,13 @@
             "Y_rlr": 485.494,
             "Z_rlr": 12.797
         },
-        "enlace_google": "https://www.google.com/maps?q=37.183,-6.906",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183&mlon=-6.906#map=21/37.183/-6.906"
+        "enlace_google": "https://www.google.com/maps?q=37.18303862,-6.906138447",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.18303862&mlon=-6.906138447#map=21/37.18303862/-6.906138447"
     },
     {
         "nombre": "BR2130000",
-        "lat": 37.182,
-        "lng": -6.907,
+        "lat": 37.182259575,
+        "lng": -6.907012715,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 685791.588,
@@ -489,13 +489,13 @@
             "Y_rlr": 369.294,
             "Z_rlr": 10.638
         },
-        "enlace_google": "https://www.google.com/maps?q=37.182,-6.907",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.182&mlon=-6.907#map=21/37.182/-6.907"
+        "enlace_google": "https://www.google.com/maps?q=37.182259575,-6.907012715",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.182259575&mlon=-6.907012715#map=21/37.182259575/-6.907012715"
     },
     {
         "nombre": "BR2140000",
-        "lat": 37.182,
-        "lng": -6.908,
+        "lat": 37.181587349,
+        "lng": -6.907773205,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 685725.719,
@@ -506,13 +506,13 @@
             "Y_rlr": 268.663,
             "Z_rlr": 10.79
         },
-        "enlace_google": "https://www.google.com/maps?q=37.182,-6.908",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.182&mlon=-6.908#map=21/37.182/-6.908"
+        "enlace_google": "https://www.google.com/maps?q=37.181587349,-6.907773205",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.181587349&mlon=-6.907773205#map=21/37.181587349/-6.907773205"
     },
     {
         "nombre": "BR2150000",
-        "lat": 37.181,
-        "lng": -6.907,
+        "lat": 37.180854267,
+        "lng": -6.906769757,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 685816.602,
@@ -523,13 +523,13 @@
             "Y_rlr": 268.037,
             "Z_rlr": 10.908
         },
-        "enlace_google": "https://www.google.com/maps?q=37.181,-6.907",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.181&mlon=-6.907#map=21/37.181/-6.907"
+        "enlace_google": "https://www.google.com/maps?q=37.180854267,-6.906769757",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.180854267&mlon=-6.906769757#map=21/37.180854267/-6.906769757"
     },
     {
         "nombre": "BR2160000",
-        "lat": 37.18,
-        "lng": -6.906,
+        "lat": 37.180112714,
+        "lng": -6.905739732,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 685909.867,
@@ -540,13 +540,13 @@
             "Y_rlr": 268.297,
             "Z_rlr": 10.816
         },
-        "enlace_google": "https://www.google.com/maps?q=37.18,-6.906",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.18&mlon=-6.906#map=21/37.18/-6.906"
+        "enlace_google": "https://www.google.com/maps?q=37.180112714,-6.905739732",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.180112714&mlon=-6.905739732#map=21/37.180112714/-6.905739732"
     },
     {
         "nombre": "BR2170000",
-        "lat": 37.181,
-        "lng": -6.905,
+        "lat": 37.180843367,
+        "lng": -6.905015066,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 685972.412,
@@ -557,13 +557,13 @@
             "Y_rlr": 371.607,
             "Z_rlr": 10.891
         },
-        "enlace_google": "https://www.google.com/maps?q=37.181,-6.905",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.181&mlon=-6.905#map=21/37.181/-6.905"
+        "enlace_google": "https://www.google.com/maps?q=37.180843367,-6.905015066",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.180843367&mlon=-6.905015066#map=21/37.180843367/-6.905015066"
     },
     {
         "nombre": "BR2180000",
-        "lat": 37.182,
-        "lng": -6.904,
+        "lat": 37.181516989,
+        "lng": -6.904134776,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686048.912,
@@ -574,13 +574,13 @@
             "Y_rlr": 479.486,
             "Z_rlr": 11.978
         },
-        "enlace_google": "https://www.google.com/maps?q=37.182,-6.904",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.182&mlon=-6.904#map=21/37.182/-6.904"
+        "enlace_google": "https://www.google.com/maps?q=37.181516989,-6.904134776",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.181516989&mlon=-6.904134776#map=21/37.181516989/-6.904134776"
     },
     {
         "nombre": "BR2190000",
-        "lat": 37.182,
-        "lng": -6.904,
+        "lat": 37.182160607,
+        "lng": -6.903536401,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686100.456,
@@ -591,13 +591,13 @@
             "Y_rlr": 568.109,
             "Z_rlr": 12.724
         },
-        "enlace_google": "https://www.google.com/maps?q=37.182,-6.904",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.182&mlon=-6.904#map=21/37.182/-6.904"
+        "enlace_google": "https://www.google.com/maps?q=37.182160607,-6.903536401",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.182160607&mlon=-6.903536401#map=21/37.182160607/-6.903536401"
     },
     {
         "nombre": "BR2200000",
-        "lat": 37.182,
-        "lng": -6.903,
+        "lat": 37.181577353,
+        "lng": -6.902580419,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686186.76,
@@ -608,13 +608,13 @@
             "Y_rlr": 576.999,
             "Z_rlr": 10.617
         },
-        "enlace_google": "https://www.google.com/maps?q=37.182,-6.903",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.182&mlon=-6.903#map=21/37.182/-6.903"
+        "enlace_google": "https://www.google.com/maps?q=37.181577353,-6.902580419",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.181577353&mlon=-6.902580419#map=21/37.181577353/-6.902580419"
     },
     {
         "nombre": "BR2210000",
-        "lat": 37.181,
-        "lng": -6.902,
+        "lat": 37.180895056,
+        "lng": -6.90198273,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686241.499,
@@ -625,13 +625,13 @@
             "Y_rlr": 556.402,
             "Z_rlr": 12.014
         },
-        "enlace_google": "https://www.google.com/maps?q=37.181,-6.902",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.181&mlon=-6.902#map=21/37.181/-6.902"
+        "enlace_google": "https://www.google.com/maps?q=37.180895056,-6.90198273",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.180895056&mlon=-6.90198273#map=21/37.180895056/-6.90198273"
     },
     {
         "nombre": "BR2220000",
-        "lat": 37.18,
-        "lng": -6.901,
+        "lat": 37.180183622,
+        "lng": -6.900907225,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686338.732,
@@ -642,13 +642,13 @@
             "Y_rlr": 561.857,
             "Z_rlr": 9.694
         },
-        "enlace_google": "https://www.google.com/maps?q=37.18,-6.901",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.18&mlon=-6.901#map=21/37.18/-6.901"
+        "enlace_google": "https://www.google.com/maps?q=37.180183622,-6.900907225",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.180183622&mlon=-6.900907225#map=21/37.180183622/-6.900907225"
     },
     {
         "nombre": "BR2230000",
-        "lat": 37.18,
-        "lng": -6.9,
+        "lat": 37.179637698,
+        "lng": -6.899967194,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686423.532,
@@ -659,13 +659,13 @@
             "Y_rlr": 572.875,
             "Z_rlr": 9.664
         },
-        "enlace_google": "https://www.google.com/maps?q=37.18,-6.9",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.18&mlon=-6.9#map=21/37.18/-6.9"
+        "enlace_google": "https://www.google.com/maps?q=37.179637698,-6.899967194",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.179637698&mlon=-6.899967194#map=21/37.179637698/-6.899967194"
     },
     {
         "nombre": "BR2240000",
-        "lat": 37.179,
-        "lng": -6.901,
+        "lat": 37.178974441,
+        "lng": -6.900727245,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686357.683,
@@ -676,13 +676,13 @@
             "Y_rlr": 473.007,
             "Z_rlr": 8.954
         },
-        "enlace_google": "https://www.google.com/maps?q=37.179,-6.901",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.179&mlon=-6.901#map=21/37.179/-6.901"
+        "enlace_google": "https://www.google.com/maps?q=37.178974441,-6.900727245",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.178974441&mlon=-6.900727245#map=21/37.178974441/-6.900727245"
     },
     {
         "nombre": "BR2250000",
-        "lat": 37.178,
-        "lng": -6.901,
+        "lat": 37.178485919,
+        "lng": -6.901272994,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686310.43,
@@ -693,13 +693,13 @@
             "Y_rlr": 400.287,
             "Z_rlr": 8.669
         },
-        "enlace_google": "https://www.google.com/maps?q=37.178,-6.901",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.178&mlon=-6.901#map=21/37.178/-6.901"
+        "enlace_google": "https://www.google.com/maps?q=37.178485919,-6.901272994",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.178485919&mlon=-6.901272994#map=21/37.178485919/-6.901272994"
     },
     {
         "nombre": "BR2260000",
-        "lat": 37.178,
-        "lng": -6.9,
+        "lat": 37.177875355,
+        "lng": -6.900454161,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686384.63,
@@ -710,13 +710,13 @@
             "Y_rlr": 398.767,
             "Z_rlr": 9.848
         },
-        "enlace_google": "https://www.google.com/maps?q=37.178,-6.9",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.178&mlon=-6.9#map=21/37.178/-6.9"
+        "enlace_google": "https://www.google.com/maps?q=37.177875355,-6.900454161",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.177875355&mlon=-6.900454161#map=21/37.177875355/-6.900454161"
     },
     {
         "nombre": "BR2270000",
-        "lat": 37.177,
-        "lng": -6.9,
+        "lat": 37.177231019,
+        "lng": -6.899561827,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686465.44,
@@ -727,13 +727,13 @@
             "Y_rlr": 398.844,
             "Z_rlr": 9.908
         },
-        "enlace_google": "https://www.google.com/maps?q=37.177,-6.9",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.177&mlon=-6.9#map=21/37.177/-6.9"
+        "enlace_google": "https://www.google.com/maps?q=37.177231019,-6.899561827",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.177231019&mlon=-6.899561827#map=21/37.177231019/-6.899561827"
     },
     {
         "nombre": "BR2280000",
-        "lat": 37.177,
-        "lng": -6.899,
+        "lat": 37.17658497,
+        "lng": -6.898664735,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686546.678,
@@ -744,13 +744,13 @@
             "Y_rlr": 399.065,
             "Z_rlr": 9.918
         },
-        "enlace_google": "https://www.google.com/maps?q=37.177,-6.899",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.177&mlon=-6.899#map=21/37.177/-6.899"
+        "enlace_google": "https://www.google.com/maps?q=37.17658497,-6.898664735",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.17658497&mlon=-6.898664735#map=21/37.17658497/-6.898664735"
     },
     {
         "nombre": "BR2290000",
-        "lat": 37.176,
-        "lng": -6.898,
+        "lat": 37.175917171,
+        "lng": -6.89778314,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686626.595,
@@ -761,13 +761,13 @@
             "Y_rlr": 396.573,
             "Z_rlr": 9.714
         },
-        "enlace_google": "https://www.google.com/maps?q=37.176,-6.898",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.176&mlon=-6.898#map=21/37.176/-6.898"
+        "enlace_google": "https://www.google.com/maps?q=37.175917171,-6.89778314",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.175917171&mlon=-6.89778314#map=21/37.175917171/-6.89778314"
     },
     {
         "nombre": "BR2300000",
-        "lat": 37.177,
-        "lng": -6.897,
+        "lat": 37.176617463,
+        "lng": -6.897027317,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686691.978,
@@ -778,13 +778,13 @@
             "Y_rlr": 499.24,
             "Z_rlr": 11.234
         },
-        "enlace_google": "https://www.google.com/maps?q=37.177,-6.897",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.177&mlon=-6.897#map=21/37.177/-6.897"
+        "enlace_google": "https://www.google.com/maps?q=37.176617463,-6.897027317",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.176617463&mlon=-6.897027317#map=21/37.176617463/-6.897027317"
     },
     {
         "nombre": "BR2310000",
-        "lat": 37.177,
-        "lng": -6.896,
+        "lat": 37.177164729,
+        "lng": -6.896290864,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686756.017,
@@ -795,13 +795,13 @@
             "Y_rlr": 588.154,
             "Z_rlr": 10.795
         },
-        "enlace_google": "https://www.google.com/maps?q=37.177,-6.896",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.177&mlon=-6.896#map=21/37.177/-6.896"
+        "enlace_google": "https://www.google.com/maps?q=37.177164729,-6.896290864",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.177164729&mlon=-6.896290864#map=21/37.177164729/-6.896290864"
     },
     {
         "nombre": "BR2320000",
-        "lat": 37.178,
-        "lng": -6.897,
+        "lat": 37.177744095,
+        "lng": -6.897032174,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686688.773,
@@ -812,13 +812,13 @@
             "Y_rlr": 591.717,
             "Z_rlr": 10.902
         },
-        "enlace_google": "https://www.google.com/maps?q=37.178,-6.897",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.178&mlon=-6.897#map=21/37.178/-6.897"
+        "enlace_google": "https://www.google.com/maps?q=37.177744095,-6.897032174",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.177744095&mlon=-6.897032174#map=21/37.177744095/-6.897032174"
     },
     {
         "nombre": "BR2330000",
-        "lat": 37.178,
-        "lng": -6.898,
+        "lat": 37.178209825,
+        "lng": -6.897676357,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686630.433,
@@ -829,13 +829,13 @@
             "Y_rlr": 591.707,
             "Z_rlr": 10.884
         },
-        "enlace_google": "https://www.google.com/maps?q=37.178,-6.898",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.178&mlon=-6.898#map=21/37.178/-6.898"
+        "enlace_google": "https://www.google.com/maps?q=37.178209825,-6.897676357",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.178209825&mlon=-6.897676357#map=21/37.178209825/-6.897676357"
     },
     {
         "nombre": "BR2340000",
-        "lat": 37.179,
-        "lng": -6.898,
+        "lat": 37.178795823,
+        "lng": -6.898383037,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686566.249,
@@ -846,13 +846,13 @@
             "Y_rlr": 597.879,
             "Z_rlr": 11.054
         },
-        "enlace_google": "https://www.google.com/maps?q=37.179,-6.898",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.179&mlon=-6.898#map=21/37.179/-6.898"
+        "enlace_google": "https://www.google.com/maps?q=37.178795823,-6.898383037",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.178795823&mlon=-6.898383037#map=21/37.178795823/-6.898383037"
     },
     {
         "nombre": "BR2350000",
-        "lat": 37.179,
-        "lng": -6.898,
+        "lat": 37.179387868,
+        "lng": -6.897592088,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686635.015,
@@ -863,13 +863,13 @@
             "Y_rlr": 693.723,
             "Z_rlr": 11.248
         },
-        "enlace_google": "https://www.google.com/maps?q=37.179,-6.898",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.179&mlon=-6.898#map=21/37.179/-6.898"
+        "enlace_google": "https://www.google.com/maps?q=37.179387868,-6.897592088",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.179387868&mlon=-6.897592088#map=21/37.179387868/-6.897592088"
     },
     {
         "nombre": "BR2360000",
-        "lat": 37.18,
-        "lng": -6.897,
+        "lat": 37.180325366,
+        "lng": -6.89668347,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686713.376,
@@ -880,13 +880,13 @@
             "Y_rlr": 825.018,
             "Z_rlr": 11.811
         },
-        "enlace_google": "https://www.google.com/maps?q=37.18,-6.897",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.18&mlon=-6.897#map=21/37.18/-6.897"
+        "enlace_google": "https://www.google.com/maps?q=37.180325366,-6.89668347",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.180325366&mlon=-6.89668347#map=21/37.180325366/-6.89668347"
     },
     {
         "nombre": "BR2370000",
-        "lat": 37.181,
-        "lng": -6.896,
+        "lat": 37.180837626,
+        "lng": -6.89608613,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686765.147,
@@ -897,13 +897,13 @@
             "Y_rlr": 902.764,
             "Z_rlr": 13.256
         },
-        "enlace_google": "https://www.google.com/maps?q=37.181,-6.896",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.181&mlon=-6.896#map=21/37.181/-6.896"
+        "enlace_google": "https://www.google.com/maps?q=37.180837626,-6.89608613",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.180837626&mlon=-6.89608613#map=21/37.180837626/-6.89608613"
     },
     {
         "nombre": "BR2380000",
-        "lat": 37.181,
-        "lng": -6.896,
+        "lat": 37.181230003,
+        "lng": -6.895647346,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686803.136,
@@ -914,13 +914,13 @@
             "Y_rlr": 961.198,
             "Z_rlr": 14.508
         },
-        "enlace_google": "https://www.google.com/maps?q=37.181,-6.896",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.181&mlon=-6.896#map=21/37.181/-6.896"
+        "enlace_google": "https://www.google.com/maps?q=37.181230003,-6.895647346",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.181230003&mlon=-6.895647346#map=21/37.181230003/-6.895647346"
     },
     {
         "nombre": "BR2390000",
-        "lat": 37.181,
-        "lng": -6.895,
+        "lat": 37.181239599,
+        "lng": -6.89488393,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686870.889,
@@ -931,13 +931,13 @@
             "Y_rlr": 1007.445,
             "Z_rlr": 15.103
         },
-        "enlace_google": "https://www.google.com/maps?q=37.181,-6.895",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.181&mlon=-6.895#map=21/37.181/-6.895"
+        "enlace_google": "https://www.google.com/maps?q=37.181239599,-6.89488393",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.181239599&mlon=-6.89488393#map=21/37.181239599/-6.89488393"
     },
     {
         "nombre": "BR2400000",
-        "lat": 37.182,
-        "lng": -6.894,
+        "lat": 37.181866663,
+        "lng": -6.894043024,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686943.999,
@@ -948,13 +948,13 @@
             "Y_rlr": 1109.146,
             "Z_rlr": 15.696
         },
-        "enlace_google": "https://www.google.com/maps?q=37.182,-6.894",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.182&mlon=-6.894#map=21/37.182/-6.894"
+        "enlace_google": "https://www.google.com/maps?q=37.181866663,-6.894043024",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.181866663&mlon=-6.894043024#map=21/37.181866663/-6.894043024"
     },
     {
         "nombre": "BR2410000",
-        "lat": 37.182,
-        "lng": -6.894,
+        "lat": 37.182493774,
+        "lng": -6.894027003,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686943.875,
@@ -965,13 +965,13 @@
             "Y_rlr": 1161.734,
             "Z_rlr": 18.136
         },
-        "enlace_google": "https://www.google.com/maps?q=37.182,-6.894",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.182&mlon=-6.894#map=21/37.182/-6.894"
+        "enlace_google": "https://www.google.com/maps?q=37.182493774,-6.894027003",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.182493774&mlon=-6.894027003#map=21/37.182493774/-6.894027003"
     },
     {
         "nombre": "BR2420000",
-        "lat": 37.183,
-        "lng": -6.895,
+        "lat": 37.183181805,
+        "lng": -6.894709233,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686881.611,
@@ -982,13 +982,13 @@
             "Y_rlr": 1177.762,
             "Z_rlr": 18.858
         },
-        "enlace_google": "https://www.google.com/maps?q=37.183,-6.895",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183&mlon=-6.895#map=21/37.183/-6.895"
+        "enlace_google": "https://www.google.com/maps?q=37.183181805,-6.894709233",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183181805&mlon=-6.894709233#map=21/37.183181805/-6.894709233"
     },
     {
         "nombre": "BR2430000",
-        "lat": 37.184,
-        "lng": -6.896,
+        "lat": 37.183862864,
+        "lng": -6.895844373,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686779.157,
@@ -999,13 +999,13 @@
             "Y_rlr": 1166.25,
             "Z_rlr": 20.073
         },
-        "enlace_google": "https://www.google.com/maps?q=37.184,-6.896",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184&mlon=-6.896#map=21/37.184/-6.896"
+        "enlace_google": "https://www.google.com/maps?q=37.183862864,-6.895844373",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183862864&mlon=-6.895844373#map=21/37.183862864/-6.895844373"
     },
     {
         "nombre": "BR2440000",
-        "lat": 37.185,
-        "lng": -6.897,
+        "lat": 37.184681073,
+        "lng": -6.896581076,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686711.739,
@@ -1016,13 +1016,13 @@
             "Y_rlr": 1189.756,
             "Z_rlr": 21.108
         },
-        "enlace_google": "https://www.google.com/maps?q=37.185,-6.897",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185&mlon=-6.897#map=21/37.185/-6.897"
+        "enlace_google": "https://www.google.com/maps?q=37.184681073,-6.896581076",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184681073&mlon=-6.896581076#map=21/37.184681073/-6.896581076"
     },
     {
         "nombre": "BR2450000",
-        "lat": 37.184,
-        "lng": -6.897,
+        "lat": 37.184048887,
+        "lng": -6.897283215,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686650.962,
@@ -1033,13 +1033,13 @@
             "Y_rlr": 1095.897,
             "Z_rlr": 20.406
         },
-        "enlace_google": "https://www.google.com/maps?q=37.184,-6.897",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184&mlon=-6.897#map=21/37.184/-6.897"
+        "enlace_google": "https://www.google.com/maps?q=37.184048887,-6.897283215",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184048887&mlon=-6.897283215#map=21/37.184048887/-6.897283215"
     },
     {
         "nombre": "BR2460000",
-        "lat": 37.184,
-        "lng": -6.898,
+        "lat": 37.183601379,
+        "lng": -6.898064545,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686582.699,
@@ -1050,13 +1050,13 @@
             "Y_rlr": 1012.529,
             "Z_rlr": 16.662
         },
-        "enlace_google": "https://www.google.com/maps?q=37.184,-6.898",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184&mlon=-6.898#map=21/37.184/-6.898"
+        "enlace_google": "https://www.google.com/maps?q=37.183601379,-6.898064545",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183601379&mlon=-6.898064545#map=21/37.183601379/-6.898064545"
     },
     {
         "nombre": "BR2470000",
-        "lat": 37.183,
-        "lng": -6.899,
+        "lat": 37.183235741,
+        "lng": -6.898596712,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686536.354,
@@ -1067,13 +1067,13 @@
             "Y_rlr": 950.738,
             "Z_rlr": 15.577
         },
-        "enlace_google": "https://www.google.com/maps?q=37.183,-6.899",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183&mlon=-6.899#map=21/37.183/-6.899"
+        "enlace_google": "https://www.google.com/maps?q=37.183235741,-6.898596712",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183235741&mlon=-6.898596712#map=21/37.183235741/-6.898596712"
     },
     {
         "nombre": "BR2480000",
-        "lat": 37.184,
-        "lng": -6.899,
+        "lat": 37.183725185,
+        "lng": -6.899081954,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686492.071,
@@ -1084,13 +1084,13 @@
             "Y_rlr": 962.148,
             "Z_rlr": 15.95
         },
-        "enlace_google": "https://www.google.com/maps?q=37.184,-6.899",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184&mlon=-6.899#map=21/37.184/-6.899"
+        "enlace_google": "https://www.google.com/maps?q=37.183725185,-6.899081954",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183725185&mlon=-6.899081954#map=21/37.183725185/-6.899081954"
     },
     {
         "nombre": "BR2490000",
-        "lat": 37.184,
-        "lng": -6.898,
+        "lat": 37.183690534,
+        "lng": -6.898007307,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686587.561,
@@ -1101,13 +1101,13 @@
             "Y_rlr": 1023.278,
             "Z_rlr": 16.832
         },
-        "enlace_google": "https://www.google.com/maps?q=37.184,-6.898",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184&mlon=-6.898#map=21/37.184/-6.898"
+        "enlace_google": "https://www.google.com/maps?q=37.183690534,-6.898007307",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183690534&mlon=-6.898007307#map=21/37.183690534/-6.898007307"
     },
     {
         "nombre": "BR3000000",
-        "lat": 37.183,
-        "lng": -6.893,
+        "lat": 37.182711904,
+        "lng": -6.893286683,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 687009.062,
@@ -1118,13 +1118,13 @@
             "Y_rlr": 1223.775,
             "Z_rlr": 18.051
         },
-        "enlace_google": "https://www.google.com/maps?q=37.183,-6.893",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183&mlon=-6.893#map=21/37.183/-6.893"
+        "enlace_google": "https://www.google.com/maps?q=37.182711904,-6.893286683",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.182711904&mlon=-6.893286683#map=21/37.182711904/-6.893286683"
     },
     {
         "nombre": "BR3010000",
-        "lat": 37.183,
-        "lng": -6.893,
+        "lat": 37.183326914,
+        "lng": -6.892610762,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 687067.552,
@@ -1135,13 +1135,13 @@
             "Y_rlr": 1314.659,
             "Z_rlr": 19.897
         },
-        "enlace_google": "https://www.google.com/maps?q=37.183,-6.893",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183&mlon=-6.893#map=21/37.183/-6.893"
+        "enlace_google": "https://www.google.com/maps?q=37.183326914,-6.892610762",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183326914&mlon=-6.892610762#map=21/37.183326914/-6.892610762"
     },
     {
         "nombre": "BR3020000",
-        "lat": 37.183,
-        "lng": -6.892,
+        "lat": 37.182680291,
+        "lng": -6.891934968,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 687129.144,
@@ -1152,13 +1152,13 @@
             "Y_rlr": 1301.66,
             "Z_rlr": 19.003
         },
-        "enlace_google": "https://www.google.com/maps?q=37.183,-6.892",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183&mlon=-6.892#map=21/37.183/-6.892"
+        "enlace_google": "https://www.google.com/maps?q=37.182680291,-6.891934968",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.182680291&mlon=-6.891934968#map=21/37.182680291/-6.891934968"
     },
     {
         "nombre": "BR3030000",
-        "lat": 37.182,
-        "lng": -6.891,
+        "lat": 37.182242711,
+        "lng": -6.891069522,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 687207.058,
@@ -1169,13 +1169,13 @@
             "Y_rlr": 1317.165,
             "Z_rlr": 19.062
         },
-        "enlace_google": "https://www.google.com/maps?q=37.182,-6.891",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.182&mlon=-6.891#map=21/37.182/-6.891"
+        "enlace_google": "https://www.google.com/maps?q=37.182242711,-6.891069522",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.182242711&mlon=-6.891069522#map=21/37.182242711/-6.891069522"
     },
     {
         "nombre": "BR3040000",
-        "lat": 37.183,
-        "lng": -6.891,
+        "lat": 37.182778469,
+        "lng": -6.890622762,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 687245.398,
@@ -1186,13 +1186,13 @@
             "Y_rlr": 1387.879,
             "Z_rlr": 20.212
         },
-        "enlace_google": "https://www.google.com/maps?q=37.183,-6.891",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183&mlon=-6.891#map=21/37.183/-6.891"
+        "enlace_google": "https://www.google.com/maps?q=37.182778469,-6.890622762",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.182778469&mlon=-6.890622762#map=21/37.182778469/-6.890622762"
     },
     {
         "nombre": "BR3050000",
-        "lat": 37.183,
-        "lng": -6.89,
+        "lat": 37.18330621,
+        "lng": -6.890277481,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 687274.748,
@@ -1203,13 +1203,13 @@
             "Y_rlr": 1451.89,
             "Z_rlr": 21.625
         },
-        "enlace_google": "https://www.google.com/maps?q=37.183,-6.89",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183&mlon=-6.89#map=21/37.183/-6.89"
+        "enlace_google": "https://www.google.com/maps?q=37.18330621,-6.890277481",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.18330621&mlon=-6.890277481#map=21/37.18330621/-6.890277481"
     },
     {
         "nombre": "BR3060000",
-        "lat": 37.184,
-        "lng": -6.89,
+        "lat": 37.183608867,
+        "lng": -6.889680524,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 687326.997,
@@ -1220,13 +1220,13 @@
             "Y_rlr": 1512.354,
             "Z_rlr": 21.68
         },
-        "enlace_google": "https://www.google.com/maps?q=37.184,-6.89",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184&mlon=-6.89#map=21/37.184/-6.89"
+        "enlace_google": "https://www.google.com/maps?q=37.183608867,-6.889680524",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183608867&mlon=-6.889680524#map=21/37.183608867/-6.889680524"
     },
     {
         "nombre": "BR3070000",
-        "lat": 37.184,
-        "lng": -6.889,
+        "lat": 37.184197197,
+        "lng": -6.889439034,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 687346.982,
@@ -1237,13 +1237,13 @@
             "Y_rlr": 1575.173,
             "Z_rlr": 21.61
         },
-        "enlace_google": "https://www.google.com/maps?q=37.184,-6.889",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184&mlon=-6.889#map=21/37.184/-6.889"
+        "enlace_google": "https://www.google.com/maps?q=37.184197197,-6.889439034",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184197197&mlon=-6.889439034#map=21/37.184197197/-6.889439034"
     },
     {
         "nombre": "BR3080000",
-        "lat": 37.184,
-        "lng": -6.89,
+        "lat": 37.184456353,
+        "lng": -6.890092599,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 687288.32,
@@ -1254,13 +1254,13 @@
             "Y_rlr": 1557.593,
             "Z_rlr": 21.498
         },
-        "enlace_google": "https://www.google.com/maps?q=37.184,-6.89",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184&mlon=-6.89#map=21/37.184/-6.89"
+        "enlace_google": "https://www.google.com/maps?q=37.184456353,-6.890092599",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184456353&mlon=-6.890092599#map=21/37.184456353/-6.890092599"
     },
     {
         "nombre": "BR3090000",
-        "lat": 37.185,
-        "lng": -6.891,
+        "lat": 37.184975492,
+        "lng": -6.890540977,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 687247.232,
@@ -1271,13 +1271,13 @@
             "Y_rlr": 1573.638,
             "Z_rlr": 21.438
         },
-        "enlace_google": "https://www.google.com/maps?q=37.185,-6.891",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185&mlon=-6.891#map=21/37.185/-6.891"
+        "enlace_google": "https://www.google.com/maps?q=37.184975492,-6.890540977",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184975492&mlon=-6.890540977#map=21/37.184975492/-6.890540977"
     },
     {
         "nombre": "BR3100000",
-        "lat": 37.185,
-        "lng": -6.891,
+        "lat": 37.185308254,
+        "lng": -6.891200558,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 687187.855,
@@ -1288,13 +1288,13 @@
             "Y_rlr": 1561.761,
             "Z_rlr": 21.524
         },
-        "enlace_google": "https://www.google.com/maps?q=37.185,-6.891",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185&mlon=-6.891#map=21/37.185/-6.891"
+        "enlace_google": "https://www.google.com/maps?q=37.185308254,-6.891200558",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185308254&mlon=-6.891200558#map=21/37.185308254/-6.891200558"
     },
     {
         "nombre": "BR3110000",
-        "lat": 37.186,
-        "lng": -6.892,
+        "lat": 37.186169286,
+        "lng": -6.891759711,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 687136.09,
@@ -1305,13 +1305,13 @@
             "Y_rlr": 1599.36,
             "Z_rlr": 19.35
         },
-        "enlace_google": "https://www.google.com/maps?q=37.186,-6.892",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186&mlon=-6.892#map=21/37.186/-6.892"
+        "enlace_google": "https://www.google.com/maps?q=37.186169286,-6.891759711",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186169286&mlon=-6.891759711#map=21/37.186169286/-6.891759711"
     },
     {
         "nombre": "BR3120000",
-        "lat": 37.187,
-        "lng": -6.893,
+        "lat": 37.186722448,
+        "lng": -6.892729601,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 687048.623,
@@ -1322,13 +1322,13 @@
             "Y_rlr": 1587.155,
             "Z_rlr": 19.252
         },
-        "enlace_google": "https://www.google.com/maps?q=37.187,-6.893",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.187&mlon=-6.893#map=21/37.187/-6.893"
+        "enlace_google": "https://www.google.com/maps?q=37.186722448,-6.892729601",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186722448&mlon=-6.892729601#map=21/37.186722448/-6.892729601"
     },
     {
         "nombre": "BR3130000",
-        "lat": 37.186,
-        "lng": -6.893,
+        "lat": 37.186227979,
+        "lng": -6.893288398,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 687000.236,
@@ -1339,13 +1339,13 @@
             "Y_rlr": 1513.172,
             "Z_rlr": 19.183
         },
-        "enlace_google": "https://www.google.com/maps?q=37.186,-6.893",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186&mlon=-6.893#map=21/37.186/-6.893"
+        "enlace_google": "https://www.google.com/maps?q=37.186227979,-6.893288398",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186227979&mlon=-6.893288398#map=21/37.186227979/-6.893288398"
     },
     {
         "nombre": "BR3140000",
-        "lat": 37.186,
-        "lng": -6.894,
+        "lat": 37.185736518,
+        "lng": -6.893831548,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686953.23,
@@ -1356,13 +1356,13 @@
             "Y_rlr": 1440.367,
             "Z_rlr": 19.181
         },
-        "enlace_google": "https://www.google.com/maps?q=37.186,-6.894",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186&mlon=-6.894#map=21/37.186/-6.894"
+        "enlace_google": "https://www.google.com/maps?q=37.185736518,-6.893831548",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185736518&mlon=-6.893831548#map=21/37.185736518/-6.893831548"
     },
     {
         "nombre": "BR3150000",
-        "lat": 37.185,
-        "lng": -6.893,
+        "lat": 37.185405342,
+        "lng": -6.893150381,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 687014.518,
@@ -1373,13 +1373,13 @@
             "Y_rlr": 1453.657,
             "Z_rlr": 19.208
         },
-        "enlace_google": "https://www.google.com/maps?q=37.185,-6.893",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185&mlon=-6.893#map=21/37.185/-6.893"
+        "enlace_google": "https://www.google.com/maps?q=37.185405342,-6.893150381",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185405342&mlon=-6.893150381#map=21/37.185405342/-6.893150381"
     },
     {
         "nombre": "BR3160000",
-        "lat": 37.185,
-        "lng": -6.894,
+        "lat": 37.184905569,
+        "lng": -6.893883897,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686950.632,
@@ -1390,13 +1390,13 @@
             "Y_rlr": 1368.833,
             "Z_rlr": 19.199
         },
-        "enlace_google": "https://www.google.com/maps?q=37.185,-6.894",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185&mlon=-6.894#map=21/37.185/-6.894"
+        "enlace_google": "https://www.google.com/maps?q=37.184905569,-6.893883897",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184905569&mlon=-6.893883897#map=21/37.184905569/-6.893883897"
     },
     {
         "nombre": "BR3170000",
-        "lat": 37.184,
-        "lng": -6.895,
+        "lat": 37.184305889,
+        "lng": -6.894560703,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686892.026,
@@ -1407,13 +1407,13 @@
             "Y_rlr": 1279.159,
             "Z_rlr": 19.224
         },
-        "enlace_google": "https://www.google.com/maps?q=37.184,-6.895",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184&mlon=-6.895#map=21/37.184/-6.895"
+        "enlace_google": "https://www.google.com/maps?q=37.184305889,-6.894560703",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184305889&mlon=-6.894560703#map=21/37.184305889/-6.894560703"
     },
     {
         "nombre": "BR3180000",
-        "lat": 37.184,
-        "lng": -6.895,
+        "lat": 37.183787233,
+        "lng": -6.894993443,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686854.887,
@@ -1424,13 +1424,13 @@
             "Y_rlr": 1210.689,
             "Z_rlr": 19.205
         },
-        "enlace_google": "https://www.google.com/maps?q=37.184,-6.895",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184&mlon=-6.895#map=21/37.184/-6.895"
+        "enlace_google": "https://www.google.com/maps?q=37.183787233,-6.894993443",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.183787233&mlon=-6.894993443#map=21/37.183787233/-6.894993443"
     },
     {
         "nombre": "BR3190000",
-        "lat": 37.184,
-        "lng": -6.896,
+        "lat": 37.184440044,
+        "lng": -6.895578143,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686801.37,
@@ -1441,13 +1441,13 @@
             "Y_rlr": 1229.625,
             "Z_rlr": 19.448
         },
-        "enlace_google": "https://www.google.com/maps?q=37.184,-6.896",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184&mlon=-6.896#map=21/37.184/-6.896"
+        "enlace_google": "https://www.google.com/maps?q=37.184440044,-6.895578143",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.184440044&mlon=-6.895578143#map=21/37.184440044/-6.895578143"
     },
     {
         "nombre": "BR4000000",
-        "lat": 37.176,
-        "lng": -6.899,
+        "lat": 37.175560404,
+        "lng": -6.898663908,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686549.272,
@@ -1458,13 +1458,13 @@
             "Y_rlr": 314.751,
             "Z_rlr": 9.372
         },
-        "enlace_google": "https://www.google.com/maps?q=37.176,-6.899",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.176&mlon=-6.899#map=21/37.176/-6.899"
+        "enlace_google": "https://www.google.com/maps?q=37.175560404,-6.898663908",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.175560404&mlon=-6.898663908#map=21/37.175560404/-6.898663908"
     },
     {
         "nombre": "BR4010000",
-        "lat": 37.175,
-        "lng": -6.899,
+        "lat": 37.174883024,
+        "lng": -6.899216689,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686501.858,
@@ -1475,13 +1475,13 @@
             "Y_rlr": 226.06,
             "Z_rlr": 12.135
         },
-        "enlace_google": "https://www.google.com/maps?q=37.175,-6.899",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.175&mlon=-6.899#map=21/37.175/-6.899"
+        "enlace_google": "https://www.google.com/maps?q=37.174883024,-6.899216689",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.174883024&mlon=-6.899216689#map=21/37.174883024/-6.899216689"
     },
     {
         "nombre": "BR4020000",
-        "lat": 37.174,
-        "lng": -6.9,
+        "lat": 37.174433229,
+        "lng": -6.899666016,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686463.069,
@@ -1492,13 +1492,13 @@
             "Y_rlr": 162.268,
             "Z_rlr": 11.988
         },
-        "enlace_google": "https://www.google.com/maps?q=37.174,-6.9",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.174&mlon=-6.9#map=21/37.174/-6.9"
+        "enlace_google": "https://www.google.com/maps?q=37.174433229,-6.899666016",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.174433229&mlon=-6.899666016#map=21/37.174433229/-6.899666016"
     },
     {
         "nombre": "BR4030000",
-        "lat": 37.174,
-        "lng": -6.9,
+        "lat": 37.174038474,
+        "lng": -6.900265478,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686410.814,
@@ -1509,13 +1509,13 @@
             "Y_rlr": 94.068,
             "Z_rlr": 13.229
         },
-        "enlace_google": "https://www.google.com/maps?q=37.174,-6.9",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.174&mlon=-6.9#map=21/37.174/-6.9"
+        "enlace_google": "https://www.google.com/maps?q=37.174038474,-6.900265478",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.174038474&mlon=-6.900265478#map=21/37.174038474/-6.900265478"
     },
     {
         "nombre": "BR4040000",
-        "lat": 37.173,
-        "lng": -6.901,
+        "lat": 37.172855336,
+        "lng": -6.900575525,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686386.193,
@@ -1526,13 +1526,13 @@
             "Y_rlr": -21.815,
             "Z_rlr": 10.276
         },
-        "enlace_google": "https://www.google.com/maps?q=37.173,-6.901",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.173&mlon=-6.901#map=21/37.173/-6.901"
+        "enlace_google": "https://www.google.com/maps?q=37.172855336,-6.900575525",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.172855336&mlon=-6.900575525#map=21/37.172855336/-6.900575525"
     },
     {
         "nombre": "BR4050000",
-        "lat": 37.172,
-        "lng": -6.901,
+        "lat": 37.172037344,
+        "lng": -6.901046024,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686346.427,
@@ -1543,13 +1543,13 @@
             "Y_rlr": -117.186,
             "Z_rlr": 8.586
         },
-        "enlace_google": "https://www.google.com/maps?q=37.172,-6.901",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.172&mlon=-6.901#map=21/37.172/-6.901"
+        "enlace_google": "https://www.google.com/maps?q=37.172037344,-6.901046024",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.172037344&mlon=-6.901046024#map=21/37.172037344/-6.901046024"
     },
     {
         "nombre": "BR4060000",
-        "lat": 37.171,
-        "lng": -6.902,
+        "lat": 37.171426413,
+        "lng": -6.901722583,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686287.855,
@@ -1560,13 +1560,13 @@
             "Y_rlr": -207.778,
             "Z_rlr": 7.602
         },
-        "enlace_google": "https://www.google.com/maps?q=37.171,-6.902",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.171&mlon=-6.902#map=21/37.171/-6.902"
+        "enlace_google": "https://www.google.com/maps?q=37.171426413,-6.901722583",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.171426413&mlon=-6.901722583#map=21/37.171426413/-6.901722583"
     },
     {
         "nombre": "BR4070000",
-        "lat": 37.171,
-        "lng": -6.902,
+        "lat": 37.170506109,
+        "lng": -6.902429928,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686227.308,
@@ -1577,13 +1577,13 @@
             "Y_rlr": -325.678,
             "Z_rlr": 6.606
         },
-        "enlace_google": "https://www.google.com/maps?q=37.171,-6.902",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.171&mlon=-6.902#map=21/37.171/-6.902"
+        "enlace_google": "https://www.google.com/maps?q=37.170506109,-6.902429928",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.170506109&mlon=-6.902429928#map=21/37.170506109/-6.902429928"
     },
     {
         "nombre": "BR4080000",
-        "lat": 37.17,
-        "lng": -6.903,
+        "lat": 37.169772129,
+        "lng": -6.903153245,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686164.884,
@@ -1594,13 +1594,13 @@
             "Y_rlr": -429.187,
             "Z_rlr": 6.961
         },
-        "enlace_google": "https://www.google.com/maps?q=37.17,-6.903",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.17&mlon=-6.903#map=21/37.17/-6.903"
+        "enlace_google": "https://www.google.com/maps?q=37.169772129,-6.903153245",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.169772129&mlon=-6.903153245#map=21/37.169772129/-6.903153245"
     },
     {
         "nombre": "BR4090000",
-        "lat": 37.169,
-        "lng": -6.904,
+        "lat": 37.169190348,
+        "lng": -6.903697308,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686118.002,
@@ -1611,13 +1611,13 @@
             "Y_rlr": -509.49,
             "Z_rlr": 6.781
         },
-        "enlace_google": "https://www.google.com/maps?q=37.169,-6.904",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.169&mlon=-6.904#map=21/37.169/-6.904"
+        "enlace_google": "https://www.google.com/maps?q=37.169190348,-6.903697308",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.169190348&mlon=-6.903697308#map=21/37.169190348/-6.903697308"
     },
     {
         "nombre": "BR4100000",
-        "lat": 37.169,
-        "lng": -6.903,
+        "lat": 37.168659771,
+        "lng": -6.90282823,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686196.474,
@@ -1628,13 +1628,13 @@
             "Y_rlr": -501.429,
             "Z_rlr": 6.846
         },
-        "enlace_google": "https://www.google.com/maps?q=37.169,-6.903",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.169&mlon=-6.903#map=21/37.169/-6.903"
+        "enlace_google": "https://www.google.com/maps?q=37.168659771,-6.90282823",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.168659771&mlon=-6.90282823#map=21/37.168659771/-6.90282823"
     },
     {
         "nombre": "BR4110000",
-        "lat": 37.168,
-        "lng": -6.902,
+        "lat": 37.168486626,
+        "lng": -6.902111798,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686260.515,
@@ -1645,13 +1645,13 @@
             "Y_rlr": -473.024,
             "Z_rlr": 6.754
         },
-        "enlace_google": "https://www.google.com/maps?q=37.168,-6.902",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.168&mlon=-6.902#map=21/37.168/-6.902"
+        "enlace_google": "https://www.google.com/maps?q=37.168486626,-6.902111798",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.168486626&mlon=-6.902111798#map=21/37.168486626/-6.902111798"
     },
     {
         "nombre": "BR4120000",
-        "lat": 37.168,
-        "lng": -6.902,
+        "lat": 37.167878123,
+        "lng": -6.901592095,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686308.157,
@@ -1662,13 +1662,13 @@
             "Y_rlr": -492.182,
             "Z_rlr": 7.478
         },
-        "enlace_google": "https://www.google.com/maps?q=37.168,-6.902",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.168&mlon=-6.902#map=21/37.168/-6.902"
+        "enlace_google": "https://www.google.com/maps?q=37.167878123,-6.901592095",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.167878123&mlon=-6.901592095#map=21/37.167878123/-6.901592095"
     },
     {
         "nombre": "BR4130000",
-        "lat": 37.168,
-        "lng": -6.901,
+        "lat": 37.168167724,
+        "lng": -6.900597812,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686395.734,
@@ -1679,13 +1679,13 @@
             "Y_rlr": -409.127,
             "Z_rlr": 7.808
         },
-        "enlace_google": "https://www.google.com/maps?q=37.168,-6.901",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.168&mlon=-6.901#map=21/37.168/-6.901"
+        "enlace_google": "https://www.google.com/maps?q=37.168167724,-6.900597812",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.168167724&mlon=-6.900597812#map=21/37.168167724/-6.900597812"
     },
     {
         "nombre": "BR4140000",
-        "lat": 37.169,
-        "lng": -6.901,
+        "lat": 37.1685484,
+        "lng": -6.901419503,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686321.836,
@@ -1696,13 +1696,13 @@
             "Y_rlr": -426.712,
             "Z_rlr": 6.95
         },
-        "enlace_google": "https://www.google.com/maps?q=37.169,-6.901",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.169&mlon=-6.901#map=21/37.169/-6.901"
+        "enlace_google": "https://www.google.com/maps?q=37.1685484,-6.901419503",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.1685484&mlon=-6.901419503#map=21/37.1685484/-6.901419503"
     },
     {
         "nombre": "BR4150000",
-        "lat": 37.169,
-        "lng": -6.902,
+        "lat": 37.16928578,
+        "lng": -6.902394986,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686233.407,
@@ -1713,13 +1713,13 @@
             "Y_rlr": -424.083,
             "Z_rlr": 6.704
         },
-        "enlace_google": "https://www.google.com/maps?q=37.169,-6.902",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.169&mlon=-6.902#map=21/37.169/-6.902"
+        "enlace_google": "https://www.google.com/maps?q=37.16928578,-6.902394986",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.16928578&mlon=-6.902394986#map=21/37.16928578/-6.902394986"
     },
     {
         "nombre": "BR4160000",
-        "lat": 37.169,
-        "lng": -6.902,
+        "lat": 37.169340824,
+        "lng": -6.901781051,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686287.786,
@@ -1730,13 +1730,13 @@
             "Y_rlr": -382.992,
             "Z_rlr": 6.736
         },
-        "enlace_google": "https://www.google.com/maps?q=37.169,-6.902",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.169&mlon=-6.902#map=21/37.169/-6.902"
+        "enlace_google": "https://www.google.com/maps?q=37.169340824,-6.901781051",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.169340824&mlon=-6.901781051#map=21/37.169340824/-6.901781051"
     },
     {
         "nombre": "BR4170000",
-        "lat": 37.169,
-        "lng": -6.901,
+        "lat": 37.16894638,
+        "lng": -6.900926867,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686364.602,
@@ -1747,13 +1747,13 @@
             "Y_rlr": -364.606,
             "Z_rlr": 6.745
         },
-        "enlace_google": "https://www.google.com/maps?q=37.169,-6.901",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.169&mlon=-6.901#map=21/37.169/-6.901"
+        "enlace_google": "https://www.google.com/maps?q=37.16894638,-6.900926867",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.16894638&mlon=-6.900926867#map=21/37.16894638/-6.900926867"
     },
     {
         "nombre": "BR4180000",
-        "lat": 37.169,
-        "lng": -6.9,
+        "lat": 37.1686302,
+        "lng": -6.899581988,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686484.798,
@@ -1764,13 +1764,13 @@
             "Y_rlr": -310.554,
             "Z_rlr": 6.515
         },
-        "enlace_google": "https://www.google.com/maps?q=37.169,-6.9",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.169&mlon=-6.9#map=21/37.169/-6.9"
+        "enlace_google": "https://www.google.com/maps?q=37.1686302,-6.899581988",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.1686302&mlon=-6.899581988#map=21/37.1686302/-6.899581988"
     },
     {
         "nombre": "BR4190000",
-        "lat": 37.169,
-        "lng": -6.899,
+        "lat": 37.169372727,
+        "lng": -6.899034381,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686531.597,
@@ -1781,13 +1781,13 @@
             "Y_rlr": -216.804,
             "Z_rlr": 7.565
         },
-        "enlace_google": "https://www.google.com/maps?q=37.169,-6.899",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.169&mlon=-6.899#map=21/37.169/-6.899"
+        "enlace_google": "https://www.google.com/maps?q=37.169372727,-6.899034381",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.169372727&mlon=-6.899034381#map=21/37.169372727/-6.899034381"
     },
     {
         "nombre": "BR4200000",
-        "lat": 37.17,
-        "lng": -6.898,
+        "lat": 37.169914402,
+        "lng": -6.898409742,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686585.729,
@@ -1798,13 +1798,13 @@
             "Y_rlr": -135.005,
             "Z_rlr": 7.901
         },
-        "enlace_google": "https://www.google.com/maps?q=37.17,-6.898",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.17&mlon=-6.898#map=21/37.17/-6.898"
+        "enlace_google": "https://www.google.com/maps?q=37.169914402,-6.898409742",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.169914402&mlon=-6.898409742#map=21/37.169914402/-6.898409742"
     },
     {
         "nombre": "BR4210000",
-        "lat": 37.171,
-        "lng": -6.898,
+        "lat": 37.170584747,
+        "lng": -6.897769444,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686640.934,
@@ -1815,13 +1815,13 @@
             "Y_rlr": -41.68,
             "Z_rlr": 9.624
         },
-        "enlace_google": "https://www.google.com/maps?q=37.171,-6.898",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.171&mlon=-6.898#map=21/37.171/-6.898"
+        "enlace_google": "https://www.google.com/maps?q=37.170584747,-6.897769444",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.170584747&mlon=-6.897769444#map=21/37.170584747/-6.897769444"
     },
     {
         "nombre": "BR4220000",
-        "lat": 37.171,
-        "lng": -6.897,
+        "lat": 37.171335114,
+        "lng": -6.897198442,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686689.788,
@@ -1832,13 +1832,13 @@
             "Y_rlr": 54.108,
             "Z_rlr": 9.995
         },
-        "enlace_google": "https://www.google.com/maps?q=37.171,-6.897",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.171&mlon=-6.897#map=21/37.171/-6.897"
+        "enlace_google": "https://www.google.com/maps?q=37.171335114,-6.897198442",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.171335114&mlon=-6.897198442#map=21/37.171335114/-6.897198442"
     },
     {
         "nombre": "BR4230000",
-        "lat": 37.172,
-        "lng": -6.897,
+        "lat": 37.172140983,
+        "lng": -6.897157654,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686691.426,
@@ -1849,13 +1849,13 @@
             "Y_rlr": 122.891,
             "Z_rlr": 13.018
         },
-        "enlace_google": "https://www.google.com/maps?q=37.172,-6.897",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.172&mlon=-6.897#map=21/37.172/-6.897"
+        "enlace_google": "https://www.google.com/maps?q=37.172140983,-6.897157654",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.172140983&mlon=-6.897157654#map=21/37.172140983/-6.897157654"
     },
     {
         "nombre": "BR4240000",
-        "lat": 37.172,
-        "lng": -6.897,
+        "lat": 37.1718018,
+        "lng": -6.896730935,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686730.15,
@@ -1866,13 +1866,13 @@
             "Y_rlr": 120.374,
             "Z_rlr": 9.207
         },
-        "enlace_google": "https://www.google.com/maps?q=37.172,-6.897",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.172&mlon=-6.897#map=21/37.172/-6.897"
+        "enlace_google": "https://www.google.com/maps?q=37.1718018,-6.896730935",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.1718018&mlon=-6.896730935#map=21/37.1718018/-6.896730935"
     },
     {
         "nombre": "BR4250000",
-        "lat": 37.173,
-        "lng": -6.896,
+        "lat": 37.172829409,
+        "lng": -6.895797918,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686810.463,
@@ -1883,13 +1883,13 @@
             "Y_rlr": 260.546,
             "Z_rlr": 9.198
         },
-        "enlace_google": "https://www.google.com/maps?q=37.173,-6.896",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.173&mlon=-6.896#map=21/37.173/-6.896"
+        "enlace_google": "https://www.google.com/maps?q=37.172829409,-6.895797918",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.172829409&mlon=-6.895797918#map=21/37.172829409/-6.895797918"
     },
     {
         "nombre": "BR4260000",
-        "lat": 37.173,
-        "lng": -6.895,
+        "lat": 37.17345623,
+        "lng": -6.895032042,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686876.921,
@@ -1900,13 +1900,13 @@
             "Y_rlr": 357.765,
             "Z_rlr": 8.178
         },
-        "enlace_google": "https://www.google.com/maps?q=37.173,-6.895",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.173&mlon=-6.895#map=21/37.173/-6.895"
+        "enlace_google": "https://www.google.com/maps?q=37.17345623,-6.895032042",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.17345623&mlon=-6.895032042#map=21/37.17345623/-6.895032042"
     },
     {
         "nombre": "BR4270000",
-        "lat": 37.174,
-        "lng": -6.895,
+        "lat": 37.174121272,
+        "lng": -6.894611159,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686912.652,
@@ -1917,13 +1917,13 @@
             "Y_rlr": 437.586,
             "Z_rlr": 9.063
         },
-        "enlace_google": "https://www.google.com/maps?q=37.174,-6.895",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.174&mlon=-6.895#map=21/37.174/-6.895"
+        "enlace_google": "https://www.google.com/maps?q=37.174121272,-6.894611159",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.174121272&mlon=-6.894611159#map=21/37.174121272/-6.894611159"
     },
     {
         "nombre": "BR4280000",
-        "lat": 37.175,
-        "lng": -6.895,
+        "lat": 37.174670693,
+        "lng": -6.895493626,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686832.945,
@@ -1934,13 +1934,13 @@
             "Y_rlr": 430.274,
             "Z_rlr": 10.07
         },
-        "enlace_google": "https://www.google.com/maps?q=37.175,-6.895",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.175&mlon=-6.895#map=21/37.175/-6.895"
+        "enlace_google": "https://www.google.com/maps?q=37.174670693,-6.895493626",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.174670693&mlon=-6.895493626#map=21/37.174670693/-6.895493626"
     },
     {
         "nombre": "BR4290000",
-        "lat": 37.175,
-        "lng": -6.896,
+        "lat": 37.175261583,
+        "lng": -6.896218739,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686767.108,
@@ -1951,13 +1951,13 @@
             "Y_rlr": 435.748,
             "Z_rlr": 9.748
         },
-        "enlace_google": "https://www.google.com/maps?q=37.175,-6.896",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.175&mlon=-6.896#map=21/37.175/-6.896"
+        "enlace_google": "https://www.google.com/maps?q=37.175261583,-6.896218739",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.175261583&mlon=-6.896218739#map=21/37.175261583/-6.896218739"
     },
     {
         "nombre": "BR4300000",
-        "lat": 37.176,
-        "lng": -6.897,
+        "lat": 37.175716351,
+        "lng": -6.896855452,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686709.456,
@@ -1968,13 +1968,13 @@
             "Y_rlr": 435.278,
             "Z_rlr": 10.124
         },
-        "enlace_google": "https://www.google.com/maps?q=37.176,-6.897",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.176&mlon=-6.897#map=21/37.176/-6.897"
+        "enlace_google": "https://www.google.com/maps?q=37.175716351,-6.896855452",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.175716351&mlon=-6.896855452#map=21/37.175716351/-6.896855452"
     },
     {
         "nombre": "BR4310000",
-        "lat": 37.176,
-        "lng": -6.896,
+        "lat": 37.176396613,
+        "lng": -6.896160616,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686769.473,
@@ -1985,13 +1985,13 @@
             "Y_rlr": 532.665,
             "Z_rlr": 10.001
         },
-        "enlace_google": "https://www.google.com/maps?q=37.176,-6.896",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.176&mlon=-6.896#map=21/37.176/-6.896"
+        "enlace_google": "https://www.google.com/maps?q=37.176396613,-6.896160616",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.176396613&mlon=-6.896160616#map=21/37.176396613/-6.896160616"
     },
     {
         "nombre": "BR4320000",
-        "lat": 37.177,
-        "lng": -6.895,
+        "lat": 37.177044981,
+        "lng": -6.895395583,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686835.8,
@@ -2002,13 +2002,13 @@
             "Y_rlr": 631.605,
             "Z_rlr": 10.933
         },
-        "enlace_google": "https://www.google.com/maps?q=37.177,-6.895",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.177&mlon=-6.895#map=21/37.177/-6.895"
+        "enlace_google": "https://www.google.com/maps?q=37.177044981,-6.895395583",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.177044981&mlon=-6.895395583#map=21/37.177044981/-6.895395583"
     },
     {
         "nombre": "BR5000000",
-        "lat": 37.185,
-        "lng": -6.91,
+        "lat": 37.18455415,
+        "lng": -6.910498133,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 685476.541,
@@ -2019,13 +2019,13 @@
             "Y_rlr": 350.751,
             "Z_rlr": 13.994
         },
-        "enlace_google": "https://www.google.com/maps?q=37.185,-6.91",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185&mlon=-6.91#map=21/37.185/-6.91"
+        "enlace_google": "https://www.google.com/maps?q=37.18455415,-6.910498133",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.18455415&mlon=-6.910498133#map=21/37.18455415/-6.910498133"
     },
     {
         "nombre": "BR5010000",
-        "lat": 37.186,
-        "lng": -6.912,
+        "lat": 37.185624458,
+        "lng": -6.911879273,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 685351.311,
@@ -2036,13 +2036,13 @@
             "Y_rlr": 356.672,
             "Z_rlr": 14.067
         },
-        "enlace_google": "https://www.google.com/maps?q=37.186,-6.912",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186&mlon=-6.912#map=21/37.186/-6.912"
+        "enlace_google": "https://www.google.com/maps?q=37.185624458,-6.911879273",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.185624458&mlon=-6.911879273#map=21/37.185624458/-6.911879273"
     },
     {
         "nombre": "BR5020000",
-        "lat": 37.187,
-        "lng": -6.914,
+        "lat": 37.186578814,
+        "lng": -6.913710689,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 685186.395,
@@ -2053,13 +2053,13 @@
             "Y_rlr": 326.244,
             "Z_rlr": 10.403
         },
-        "enlace_google": "https://www.google.com/maps?q=37.187,-6.914",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.187&mlon=-6.914#map=21/37.187/-6.914"
+        "enlace_google": "https://www.google.com/maps?q=37.186578814,-6.913710689",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186578814&mlon=-6.913710689#map=21/37.186578814/-6.913710689"
     },
     {
         "nombre": "BR5030000",
-        "lat": 37.187,
-        "lng": -6.917,
+        "lat": 37.186667304,
+        "lng": -6.916709051,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 684920.002,
@@ -2070,13 +2070,13 @@
             "Y_rlr": 155.053,
             "Z_rlr": 5.244
         },
-        "enlace_google": "https://www.google.com/maps?q=37.187,-6.917",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.187&mlon=-6.917#map=21/37.187/-6.917"
+        "enlace_google": "https://www.google.com/maps?q=37.186667304,-6.916709051",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.186667304&mlon=-6.916709051#map=21/37.186667304/-6.916709051"
     },
     {
         "nombre": "BR5040000",
-        "lat": 37.188,
-        "lng": -6.918,
+        "lat": 37.188110332,
+        "lng": -6.918375129,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 684768.58,
@@ -2087,13 +2087,13 @@
             "Y_rlr": 174.722,
             "Z_rlr": 6.645
         },
-        "enlace_google": "https://www.google.com/maps?q=37.188,-6.918",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.188&mlon=-6.918#map=21/37.188/-6.918"
+        "enlace_google": "https://www.google.com/maps?q=37.188110332,-6.918375129",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.188110332&mlon=-6.918375129#map=21/37.188110332/-6.918375129"
     },
     {
         "nombre": "BR5050000",
-        "lat": 37.189,
-        "lng": -6.919,
+        "lat": 37.188769836,
+        "lng": -6.91930667,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 684684.278,
@@ -2104,13 +2104,13 @@
             "Y_rlr": 173.589,
             "Z_rlr": 7.092
         },
-        "enlace_google": "https://www.google.com/maps?q=37.189,-6.919",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.189&mlon=-6.919#map=21/37.189/-6.919"
+        "enlace_google": "https://www.google.com/maps?q=37.188769836,-6.91930667",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.188769836&mlon=-6.91930667#map=21/37.188769836/-6.91930667"
     },
     {
         "nombre": "BR5060000",
-        "lat": 37.19,
-        "lng": -6.921,
+        "lat": 37.190398946,
+        "lng": -6.920837728,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 684544.397,
@@ -2121,13 +2121,13 @@
             "Y_rlr": 216.628,
             "Z_rlr": 6.485
         },
-        "enlace_google": "https://www.google.com/maps?q=37.19,-6.921",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.19&mlon=-6.921#map=21/37.19/-6.921"
+        "enlace_google": "https://www.google.com/maps?q=37.190398946,-6.920837728",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.190398946&mlon=-6.920837728#map=21/37.190398946/-6.920837728"
     },
     {
         "nombre": "BR5070000",
-        "lat": 37.192,
-        "lng": -6.922,
+        "lat": 37.19157583,
+        "lng": -6.922422049,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 684400.894,
@@ -2138,13 +2138,13 @@
             "Y_rlr": 219.258,
             "Z_rlr": 7.085
         },
-        "enlace_google": "https://www.google.com/maps?q=37.192,-6.922",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.192&mlon=-6.922#map=21/37.192/-6.922"
+        "enlace_google": "https://www.google.com/maps?q=37.19157583,-6.922422049",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.19157583&mlon=-6.922422049#map=21/37.19157583/-6.922422049"
     },
     {
         "nombre": "BR5080000",
-        "lat": 37.191,
-        "lng": -6.924,
+        "lat": 37.190500807,
+        "lng": -6.923965403,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 684266.507,
@@ -2155,13 +2155,13 @@
             "Y_rlr": 38.867,
             "Z_rlr": 8.089
         },
-        "enlace_google": "https://www.google.com/maps?q=37.191,-6.924",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.191&mlon=-6.924#map=21/37.191/-6.924"
+        "enlace_google": "https://www.google.com/maps?q=37.190500807,-6.923965403",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.190500807&mlon=-6.923965403#map=21/37.190500807/-6.923965403"
     },
     {
         "nombre": "BR5090000",
-        "lat": 37.189,
-        "lng": -6.925,
+        "lat": 37.189245146,
+        "lng": -6.9253314,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 684148.299,
@@ -2172,13 +2172,13 @@
             "Y_rlr": -145.847,
             "Z_rlr": 7.031
         },
-        "enlace_google": "https://www.google.com/maps?q=37.189,-6.925",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.189&mlon=-6.925#map=21/37.189/-6.925"
+        "enlace_google": "https://www.google.com/maps?q=37.189245146,-6.9253314",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.189245146&mlon=-6.9253314#map=21/37.189245146/-6.9253314"
     },
     {
         "nombre": "BR5100000",
-        "lat": 37.19,
-        "lng": -6.927,
+        "lat": 37.19043797,
+        "lng": -6.926890617,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 684006.99,
@@ -2189,13 +2189,13 @@
             "Y_rlr": -140.403,
             "Z_rlr": 6.912
         },
-        "enlace_google": "https://www.google.com/maps?q=37.19,-6.927",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.19&mlon=-6.927#map=21/37.19/-6.927"
+        "enlace_google": "https://www.google.com/maps?q=37.19043797,-6.926890617",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.19043797&mlon=-6.926890617#map=21/37.19043797/-6.926890617"
     },
     {
         "nombre": "BR5110000",
-        "lat": 37.192,
-        "lng": -6.928,
+        "lat": 37.192188939,
+        "lng": -6.928357134,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 683872.56,
@@ -2206,13 +2206,13 @@
             "Y_rlr": -83.467,
             "Z_rlr": 7.538
         },
-        "enlace_google": "https://www.google.com/maps?q=37.192,-6.928",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.192&mlon=-6.928#map=21/37.192/-6.928"
+        "enlace_google": "https://www.google.com/maps?q=37.192188939,-6.928357134",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.192188939&mlon=-6.928357134#map=21/37.192188939/-6.928357134"
     },
     {
         "nombre": "BR5120000",
-        "lat": 37.194,
-        "lng": -6.93,
+        "lat": 37.194374325,
+        "lng": -6.929547016,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 683761.638,
@@ -2223,13 +2223,13 @@
             "Y_rlr": 25.716,
             "Z_rlr": 7.389
         },
-        "enlace_google": "https://www.google.com/maps?q=37.194,-6.93",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.194&mlon=-6.93#map=21/37.194/-6.93"
+        "enlace_google": "https://www.google.com/maps?q=37.194374325,-6.929547016",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.194374325&mlon=-6.929547016#map=21/37.194374325/-6.929547016"
     },
     {
         "nombre": "BR5130000",
-        "lat": 37.196,
-        "lng": -6.931,
+        "lat": 37.1963697,
+        "lng": -6.93075049,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 683649.976,
@@ -2240,13 +2240,13 @@
             "Y_rlr": 118.445,
             "Z_rlr": 7.07
         },
-        "enlace_google": "https://www.google.com/maps?q=37.196,-6.931",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.196&mlon=-6.931#map=21/37.196/-6.931"
+        "enlace_google": "https://www.google.com/maps?q=37.1963697,-6.93075049",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.1963697&mlon=-6.93075049#map=21/37.1963697/-6.93075049"
     },
     {
         "nombre": "BR5140000",
-        "lat": 37.198,
-        "lng": -6.932,
+        "lat": 37.198271555,
+        "lng": -6.931775763,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 683554.363,
@@ -2257,13 +2257,13 @@
             "Y_rlr": 214.08,
             "Z_rlr": 7.23
         },
-        "enlace_google": "https://www.google.com/maps?q=37.198,-6.932",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.198&mlon=-6.932#map=21/37.198/-6.932"
+        "enlace_google": "https://www.google.com/maps?q=37.198271555,-6.931775763",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.198271555&mlon=-6.931775763#map=21/37.198271555/-6.931775763"
     },
     {
         "nombre": "BR5150000",
-        "lat": 37.2,
-        "lng": -6.932,
+        "lat": 37.200147691,
+        "lng": -6.932499123,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 683485.614,
@@ -2274,13 +2274,13 @@
             "Y_rlr": 325.565,
             "Z_rlr": 6.836
         },
-        "enlace_google": "https://www.google.com/maps?q=37.2,-6.932",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.2&mlon=-6.932#map=21/37.2/-6.932"
+        "enlace_google": "https://www.google.com/maps?q=37.200147691,-6.932499123",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.200147691&mlon=-6.932499123#map=21/37.200147691/-6.932499123"
     },
     {
         "nombre": "BR5160000",
-        "lat": 37.202,
-        "lng": -6.934,
+        "lat": 37.201731107,
+        "lng": -6.934095545,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 683340.087,
@@ -2291,13 +2291,13 @@
             "Y_rlr": 360.994,
             "Z_rlr": 7.156
         },
-        "enlace_google": "https://www.google.com/maps?q=37.202,-6.934",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.202&mlon=-6.934#map=21/37.202/-6.934"
+        "enlace_google": "https://www.google.com/maps?q=37.201731107,-6.934095545",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.201731107&mlon=-6.934095545#map=21/37.201731107/-6.934095545"
     },
     {
         "nombre": "BR5170000",
-        "lat": 37.203,
-        "lng": -6.936,
+        "lat": 37.202731844,
+        "lng": -6.935971263,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 683171.186,
@@ -2308,13 +2308,13 @@
             "Y_rlr": 331.818,
             "Z_rlr": 8.511
         },
-        "enlace_google": "https://www.google.com/maps?q=37.203,-6.936",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.203&mlon=-6.936#map=21/37.203/-6.936"
+        "enlace_google": "https://www.google.com/maps?q=37.202731844,-6.935971263",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.202731844&mlon=-6.935971263#map=21/37.202731844/-6.935971263"
     },
     {
         "nombre": "BR5180000",
-        "lat": 37.204,
-        "lng": -6.937,
+        "lat": 37.204031151,
+        "lng": -6.93698057,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 683078.465,
@@ -2325,13 +2325,13 @@
             "Y_rlr": 378.788,
             "Z_rlr": 8.461
         },
-        "enlace_google": "https://www.google.com/maps?q=37.204,-6.937",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.204&mlon=-6.937#map=21/37.204/-6.937"
+        "enlace_google": "https://www.google.com/maps?q=37.204031151,-6.93698057",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.204031151&mlon=-6.93698057#map=21/37.204031151/-6.93698057"
     },
     {
         "nombre": "BR5190000",
-        "lat": 37.202,
-        "lng": -6.937,
+        "lat": 37.202412025,
+        "lng": -6.936944042,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 683085.62,
@@ -2342,13 +2342,13 @@
             "Y_rlr": 247.597,
             "Z_rlr": 6.708
         },
-        "enlace_google": "https://www.google.com/maps?q=37.202,-6.937",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.202&mlon=-6.937#map=21/37.202/-6.937"
+        "enlace_google": "https://www.google.com/maps?q=37.202412025,-6.936944042",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.202412025&mlon=-6.936944042#map=21/37.202412025/-6.936944042"
     },
     {
         "nombre": "BR5200000",
-        "lat": 37.201,
-        "lng": -6.936,
+        "lat": 37.201088839,
+        "lng": -6.936031139,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 683169.844,
@@ -2359,13 +2359,13 @@
             "Y_rlr": 192.925,
             "Z_rlr": 6.65
         },
-        "enlace_google": "https://www.google.com/maps?q=37.201,-6.936",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.201&mlon=-6.936#map=21/37.201/-6.936"
+        "enlace_google": "https://www.google.com/maps?q=37.201088839,-6.936031139",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.201088839&mlon=-6.936031139#map=21/37.201088839/-6.936031139"
     },
     {
         "nombre": "BR5181000",
-        "lat": 37.204,
-        "lng": -6.939,
+        "lat": 37.203988687,
+        "lng": -6.93888269,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 682909.748,
@@ -2376,13 +2376,13 @@
             "Y_rlr": 262.122,
             "Z_rlr": 7.542
         },
-        "enlace_google": "https://www.google.com/maps?q=37.204,-6.939",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.204&mlon=-6.939#map=21/37.204/-6.939"
+        "enlace_google": "https://www.google.com/maps?q=37.203988687,-6.93888269",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.203988687&mlon=-6.93888269#map=21/37.203988687/-6.93888269"
     },
     {
         "nombre": "BR5183000",
-        "lat": 37.205,
-        "lng": -6.939,
+        "lat": 37.205046803,
+        "lng": -6.938949969,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 682901.222,
@@ -2393,13 +2393,13 @@
             "Y_rlr": 345.276,
             "Z_rlr": 7.45
         },
-        "enlace_google": "https://www.google.com/maps?q=37.205,-6.939",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.205&mlon=-6.939#map=21/37.205/-6.939"
+        "enlace_google": "https://www.google.com/maps?q=37.205046803,-6.938949969",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.205046803&mlon=-6.938949969#map=21/37.205046803/-6.938949969"
     },
     {
         "nombre": "BR5182000",
-        "lat": 37.203,
-        "lng": -6.939,
+        "lat": 37.202862288,
+        "lng": -6.938873729,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 682913.263,
@@ -2410,13 +2410,13 @@
             "Y_rlr": 169.874,
             "Z_rlr": 7.609
         },
-        "enlace_google": "https://www.google.com/maps?q=37.203,-6.939",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.203&mlon=-6.939#map=21/37.203/-6.939"
+        "enlace_google": "https://www.google.com/maps?q=37.202862288,-6.938873729",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.202862288&mlon=-6.938873729#map=21/37.202862288/-6.938873729"
     },
     {
         "nombre": "BR6000000",
-        "lat": 37.171,
-        "lng": -6.895,
+        "lat": 37.170502784,
+        "lng": -6.895454491,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686846.688,
@@ -2427,13 +2427,13 @@
             "Y_rlr": 89.429,
             "Z_rlr": 9.433
         },
-        "enlace_google": "https://www.google.com/maps?q=37.171,-6.895",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.171&mlon=-6.895#map=21/37.171/-6.895"
+        "enlace_google": "https://www.google.com/maps?q=37.170502784,-6.895454491",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.170502784&mlon=-6.895454491#map=21/37.170502784/-6.895454491"
     },
     {
         "nombre": "BR6010000",
-        "lat": 37.17,
-        "lng": -6.895,
+        "lat": 37.16969316,
+        "lng": -6.895054167,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686884.229,
@@ -2444,13 +2444,13 @@
             "Y_rlr": 46.606,
             "Z_rlr": 9.59
         },
-        "enlace_google": "https://www.google.com/maps?q=37.17,-6.895",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.17&mlon=-6.895#map=21/37.17/-6.895"
+        "enlace_google": "https://www.google.com/maps?q=37.16969316,-6.895054167",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.16969316&mlon=-6.895054167#map=21/37.16969316/-6.895054167"
     },
     {
         "nombre": "BR6020000",
-        "lat": 37.169,
-        "lng": -6.896,
+        "lat": 37.169214639,
+        "lng": -6.895627208,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686834.525,
@@ -2461,13 +2461,13 @@
             "Y_rlr": -26.92,
             "Z_rlr": 9.956
         },
-        "enlace_google": "https://www.google.com/maps?q=37.169,-6.896",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.169&mlon=-6.896#map=21/37.169/-6.896"
+        "enlace_google": "https://www.google.com/maps?q=37.169214639,-6.895627208",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.169214639&mlon=-6.895627208#map=21/37.169214639/-6.895627208"
     },
     {
         "nombre": "BR6030000",
-        "lat": 37.169,
-        "lng": -6.896,
+        "lat": 37.168561417,
+        "lng": -6.896156165,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686789.165,
@@ -2478,13 +2478,13 @@
             "Y_rlr": -112.206,
             "Z_rlr": 10.019
         },
-        "enlace_google": "https://www.google.com/maps?q=37.169,-6.896",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.169&mlon=-6.896#map=21/37.169/-6.896"
+        "enlace_google": "https://www.google.com/maps?q=37.168561417,-6.896156165",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.168561417&mlon=-6.896156165#map=21/37.168561417/-6.896156165"
     },
     {
         "nombre": "BR6040000",
-        "lat": 37.168,
-        "lng": -6.897,
+        "lat": 37.167972829,
+        "lng": -6.896787097,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686734.59,
@@ -2495,13 +2495,13 @@
             "Y_rlr": -198.243,
             "Z_rlr": 7.652
         },
-        "enlace_google": "https://www.google.com/maps?q=37.168,-6.897",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.168&mlon=-6.897#map=21/37.168/-6.897"
+        "enlace_google": "https://www.google.com/maps?q=37.167972829,-6.896787097",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.167972829&mlon=-6.896787097#map=21/37.167972829/-6.896787097"
     },
     {
         "nombre": "BR6050000",
-        "lat": 37.167,
-        "lng": -6.897,
+        "lat": 37.167011511,
+        "lng": -6.897298921,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686691.508,
@@ -2512,13 +2512,13 @@
             "Y_rlr": -307.877,
             "Z_rlr": 6.828
         },
-        "enlace_google": "https://www.google.com/maps?q=37.167,-6.897",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.167&mlon=-6.897#map=21/37.167/-6.897"
+        "enlace_google": "https://www.google.com/maps?q=37.167011511,-6.897298921",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.167011511&mlon=-6.897298921#map=21/37.167011511/-6.897298921"
     },
     {
         "nombre": "BR6060000",
-        "lat": 37.166,
-        "lng": -6.896,
+        "lat": 37.166400851,
+        "lng": -6.896015908,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686806.94,
@@ -2529,13 +2529,13 @@
             "Y_rlr": -281.75,
             "Z_rlr": 6.98
         },
-        "enlace_google": "https://www.google.com/maps?q=37.166,-6.896",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.166&mlon=-6.896#map=21/37.166/-6.896"
+        "enlace_google": "https://www.google.com/maps?q=37.166400851,-6.896015908",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.166400851&mlon=-6.896015908#map=21/37.166400851/-6.896015908"
     },
     {
         "nombre": "BR6070000",
-        "lat": 37.165,
-        "lng": -6.894,
+        "lat": 37.16540191,
+        "lng": -6.894419601,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 686951.151,
@@ -2546,13 +2546,13 @@
             "Y_rlr": -268.932,
             "Z_rlr": 6.955
         },
-        "enlace_google": "https://www.google.com/maps?q=37.165,-6.894",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.165&mlon=-6.894#map=21/37.165/-6.894"
+        "enlace_google": "https://www.google.com/maps?q=37.16540191,-6.894419601",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.16540191&mlon=-6.894419601#map=21/37.16540191/-6.894419601"
     },
     {
         "nombre": "BR6080000",
-        "lat": 37.164,
-        "lng": -6.893,
+        "lat": 37.164122392,
+        "lng": -6.892673032,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 687109.401,
@@ -2563,13 +2563,13 @@
             "Y_rlr": -270.262,
             "Z_rlr": 7.019
         },
-        "enlace_google": "https://www.google.com/maps?q=37.164,-6.893",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.164&mlon=-6.893#map=21/37.164/-6.893"
+        "enlace_google": "https://www.google.com/maps?q=37.164122392,-6.892673032",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.164122392&mlon=-6.892673032#map=21/37.164122392/-6.892673032"
     },
     {
         "nombre": "BR6090000",
-        "lat": 37.163,
-        "lng": -6.891,
+        "lat": 37.16344216,
+        "lng": -6.891197133,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 687242.141,
@@ -2580,13 +2580,13 @@
             "Y_rlr": -238.366,
             "Z_rlr": 6.933
         },
-        "enlace_google": "https://www.google.com/maps?q=37.163,-6.891",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.163&mlon=-6.891#map=21/37.163/-6.891"
+        "enlace_google": "https://www.google.com/maps?q=37.16344216,-6.891197133",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.16344216&mlon=-6.891197133#map=21/37.16344216/-6.891197133"
     },
     {
         "nombre": "BR6100000",
-        "lat": 37.163,
-        "lng": -6.892,
+        "lat": 37.162663521,
+        "lng": -6.892430057,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 687134.576,
@@ -2597,13 +2597,13 @@
             "Y_rlr": -375.908,
             "Z_rlr": 6.255
         },
-        "enlace_google": "https://www.google.com/maps?q=37.163,-6.892",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.163&mlon=-6.892#map=21/37.163/-6.892"
+        "enlace_google": "https://www.google.com/maps?q=37.162663521,-6.892430057",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.162663521&mlon=-6.892430057#map=21/37.162663521/-6.892430057"
     },
     {
         "nombre": "BR6110000",
-        "lat": 37.162,
-        "lng": -6.893,
+        "lat": 37.161804266,
+        "lng": -6.893255321,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 687063.409,
@@ -2614,13 +2614,13 @@
             "Y_rlr": -495.808,
             "Z_rlr": 6.9
         },
-        "enlace_google": "https://www.google.com/maps?q=37.162,-6.893",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.162&mlon=-6.893#map=21/37.162/-6.893"
+        "enlace_google": "https://www.google.com/maps?q=37.161804266,-6.893255321",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.161804266&mlon=-6.893255321#map=21/37.161804266/-6.893255321"
     },
     {
         "nombre": "BR6120000",
-        "lat": 37.161,
-        "lng": -6.892,
+        "lat": 37.160731566,
+        "lng": -6.891614947,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 687211.727,
@@ -2631,13 +2631,13 @@
             "Y_rlr": -486.427,
             "Z_rlr": 6.838
         },
-        "enlace_google": "https://www.google.com/maps?q=37.161,-6.892",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.161&mlon=-6.892#map=21/37.161/-6.892"
+        "enlace_google": "https://www.google.com/maps?q=37.160731566,-6.891614947",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.160731566&mlon=-6.891614947#map=21/37.160731566/-6.891614947"
     },
     {
         "nombre": "BR6130000",
-        "lat": 37.16,
-        "lng": -6.89,
+        "lat": 37.159647218,
+        "lng": -6.890125394,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 687346.684,
@@ -2648,13 +2648,13 @@
             "Y_rlr": -486.985,
             "Z_rlr": 6.951
         },
-        "enlace_google": "https://www.google.com/maps?q=37.16,-6.89",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.16&mlon=-6.89#map=21/37.16/-6.89"
+        "enlace_google": "https://www.google.com/maps?q=37.159647218,-6.890125394",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.159647218&mlon=-6.890125394#map=21/37.159647218/-6.890125394"
     },
     {
         "nombre": "BR6140000",
-        "lat": 37.159,
-        "lng": -6.889,
+        "lat": 37.158769002,
+        "lng": -6.888545199,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 687489.185,
@@ -2665,13 +2665,13 @@
             "Y_rlr": -465.168,
             "Z_rlr": 6.903
         },
-        "enlace_google": "https://www.google.com/maps?q=37.159,-6.889",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.159&mlon=-6.889#map=21/37.159/-6.889"
+        "enlace_google": "https://www.google.com/maps?q=37.158769002,-6.888545199",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.158769002&mlon=-6.888545199#map=21/37.158769002/-6.888545199"
     },
     {
         "nombre": "BR6150000",
-        "lat": 37.159,
-        "lng": -6.893,
+        "lat": 37.159135969,
+        "lng": -6.892997681,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 687092.868,
@@ -2682,13 +2682,13 @@
             "Y_rlr": -700.16,
             "Z_rlr": 6.592
         },
-        "enlace_google": "https://www.google.com/maps?q=37.159,-6.893",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.159&mlon=-6.893#map=21/37.159/-6.893"
+        "enlace_google": "https://www.google.com/maps?q=37.159135969,-6.892997681",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.159135969&mlon=-6.892997681#map=21/37.159135969/-6.892997681"
     },
     {
         "nombre": "BR6160000",
-        "lat": 37.16,
-        "lng": -6.893,
+        "lat": 37.159970149,
+        "lng": -6.892632818,
         "metadatos": {
             "UTM ": "UTM. ETRS 89-HUSO 29 (metros)",
             "X_utm": 687123.213,
@@ -2699,7 +2699,7 @@
             "Y_rlr": -609.745,
             "Z_rlr": 6.81
         },
-        "enlace_google": "https://www.google.com/maps?q=37.16,-6.893",
-        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.16&mlon=-6.893#map=21/37.16/-6.893"
+        "enlace_google": "https://www.google.com/maps?q=37.159970149,-6.892632818",
+        "enlace_osm": "https://www.openstreetmap.org/?mlat=37.159970149&mlon=-6.892632818#map=21/37.159970149/-6.892632818"
     }
 ]
