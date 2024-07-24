@@ -33,7 +33,8 @@
             return {
                 lat: params.get('lat'),
                 lng: params.get('lng'),
-                zoom: params.get('zoom')
+                zoom: params.get('zoom'),
+                layer: params.get('layer')
             };
         }
 
@@ -42,6 +43,7 @@
         let initialLat = 37.7749;
         let initialLng = -95.712891;
         let initialZoom = 4;
+        let initialLayer = 'satellite';
 
         if (queryParams.lat && queryParams.lng && queryParams.zoom) {
             initialLat = parseFloat(queryParams.lat);
@@ -49,11 +51,30 @@
             initialZoom = parseInt(queryParams.zoom, 10);
         }
 
+        if (queryParams.layer) {
+            initialLayer = queryParams.layer;
+        }
+
         var map = L.map('map').setView([initialLat, initialLng], initialZoom);
 
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: 'Map data © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-        }).addTo(map);
+        // Definir las capas
+        var layers = {
+            'satellite': L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                maxZoom: 21,
+                attribution: 'Map data © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+            }),
+            'streets': L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                maxZoom: 21,
+                attribution: 'Map data © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+            })
+        };
+
+        // Añadir la capa seleccionada
+        if (layers[initialLayer]) {
+            layers[initialLayer].addTo(map);
+        } else {
+            layers['satellite'].addTo(map); // Valor por defecto
+        }
 
         // Cargar puntos desde el archivo JSON
         fetch('puntos.json')
