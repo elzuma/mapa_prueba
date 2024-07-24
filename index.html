@@ -109,11 +109,15 @@
         fetch('puntos.json')
             .then(response => response.json())
             .then(puntos => {
+                console.log('Puntos cargados:', puntos); // Mensaje de depuración
+
                 puntos.forEach(function(punto) {
                     if (!punto.lat || !punto.lng || !punto.nombre) {
                         console.error('Punto inválido:', punto);
                         return;
                     }
+
+                    console.log('Punto procesado:', punto); // Mensaje de depuración
 
                     var popupContent = `
                         <b>${punto.nombre}</b><br>
@@ -135,8 +139,12 @@
 
                     var icon = (highlightPoint && punto.nombre === highlightPoint) ? highlightIcon : defaultIcon;
 
+                    console.log('Icono asignado:', icon); // Mensaje de depuración
+
                     L.marker([punto.lat, punto.lng], { icon: icon }).addTo(map)
                         .bindPopup(popupContent);
+
+                    console.log('Marcador añadido:', punto); // Mensaje de depuración
                 });
             })
             .catch(error => console.error('Hubo un problema con la carga del archivo JSON:', error));
