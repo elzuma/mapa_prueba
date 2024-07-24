@@ -57,15 +57,18 @@
 
         var map = L.map('map').setView([initialLat, initialLng], initialZoom);
 
+        // Reemplaza 'YOUR_MAPBOX_ACCESS_TOKEN' con tu token de Mapbox
+        const accessToken = 'pk.eyJ1IjoiZWx6dW1hIiwiYSI6ImNseXptNWY3NDJibm0ya3M2NmQ4cHNjYXYifQ.4t4qNdUm7K5qKW_S9VEZDQ';
+
         // Definir las capas
         var layers = {
-            'satellite': L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            'satellite': L.tileLayer(`https://api.mapbox.com/styles/v1/mapbox/satellite-v9/tiles/512/{z}/{x}/{y}@2x?access_token=${accessToken}`, {
                 maxZoom: 21,
-                attribution: 'Map data © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+                attribution: 'Map data © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>'
             }),
-            'streets': L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            'streets': L.tileLayer(`https://api.mapbox.com/styles/v1/mapbox/streets-v11/tiles/512/{z}/{x}/{y}@2x?access_token=${accessToken}`, {
                 maxZoom: 21,
-                attribution: 'Map data © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+                attribution: 'Map data © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>'
             })
         };
 
