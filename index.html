@@ -3,8 +3,8 @@
 <head>
     <title>Mapa Interactivo con Mapbox</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
-    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.css" rel="stylesheet">
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.js"></script>
     <style>
         body, html {
             margin: 0;
@@ -27,124 +27,63 @@
     <div id="map"></div>
 
     <script>
-        // Función para obtener parámetros de la URL
+        // Obtener parámetros de la URL
         function getQueryParams() {
             const params = new URLSearchParams(window.location.search);
             return {
                 lat: params.get('lat'),
                 lng: params.get('lng'),
                 zoom: params.get('zoom'),
-                layer: params.get('layer'),
                 highlight: params.get('highlight')
             };
         }
 
+        // Token de Mapbox
+        mapboxgl.accessToken = 'pk.eyJ1IjoiZWx6dW1hIiwiYSI6ImNseXptNWY3NDJibm0ya3M2NmQ4cHNjYXYifQ.4t4qNdUm7K5qKW_S9VEZDQ';
+
         // Obtener parámetros de la URL
         const queryParams = getQueryParams();
-        let initialLat = 37.7749;
-        let initialLng = -95.712891;
-        let initialZoom = 4;
-        let initialLayer = 'satellite';
-        let highlightPoint = null;
+        const initialLat = queryParams.lat ? parseFloat(queryParams.lat) : 37.7749;
+        const initialLng = queryParams.lng ? parseFloat(queryParams.lng) : -95.712891;
+        const initialZoom = queryParams.zoom ? parseInt(queryParams.zoom, 10) : 4;
+        const highlightPoint = queryParams.highlight;
 
-        if (queryParams.lat && queryParams.lng && queryParams.zoom) {
-            initialLat = parseFloat(queryParams.lat);
-            initialLng = parseFloat(queryParams.lng);
-            initialZoom = parseInt(queryParams.zoom, 10);
-        }
-
-        if (queryParams.layer) {
-            initialLayer = queryParams.layer;
-        }
-
-        if (queryParams.highlight) {
-            highlightPoint = queryParams.highlight; // Nombre del punto a destacar
-        }
-
-        // Inicializar el mapa con Mapbox
-        var map = L.map('map').setView([initialLat, initialLng], initialZoom);
-
-        // Token de Mapbox
-        const accessToken = 'pk.eyJ1IjoiZWx6dW1hIiwiYSI6ImNseXptNWY3NDJibm0ya3M2NmQ4cHNjYXYifQ.4t4qNdUm7K5qKW_S9VEZDQ';
-
-        // Definir las capas de Mapbox
-        var layers = {
-            'satellite': L.tileLayer(`https://api.mapbox.com/styles/v1/mapbox/satellite-v9/tiles/512/{z}/{x}/{y}@2x?access_token=${accessToken}`, {
-                maxZoom: 21,
-                attribution: 'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>'
-            }),
-            'streets': L.tileLayer(`https://api.mapbox.com/styles/v1/mapbox/streets-v11/tiles/512/{z}/{x}/{y}@2x?access_token=${accessToken}`, {
-                maxZoom: 21,
-                attribution: 'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>'
-            })
-        };
-
-        // Añadir la capa seleccionada
-        if (layers[initialLayer]) {
-            layers[initialLayer].addTo(map);
-        } else {
-            layers['satellite'].addTo(map); // Valor por defecto
-        }
-
-        // Definir íconos personalizados
-        var defaultIcon = L.icon({
-            iconUrl: 'https://unpkg.com/leaflet@1.7.1/dist/images/marker-icon.png',
-            iconSize: [25, 41],
-            iconAnchor: [12, 41],
-            popupAnchor: [1, -34],
-            shadowUrl: 'https://unpkg.com/leaflet@1.7.1/dist/images/marker-shadow.png',
-            shadowSize: [41, 41]
+        // Inicializar el mapa
+        const map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/mapbox/satellite-v9',
+            center: [initialLng, initialLat],
+            zoom: initialZoom
         });
 
-        var highlightIcon = L.icon({
-            iconUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/marker-icon-2x-green.png',
-            iconSize: [25, 41],
-            iconAnchor: [12, 41],
-            popupAnchor: [1, -34],
-            shadowUrl: 'https://unpkg.com/leaflet@1.7.1/dist/images/marker-shadow.png',
-            shadowSize: [41, 41]
-        });
+        // Añadir controles de navegación
+        map.addControl(new mapboxgl.NavigationControl());
 
         // Cargar puntos desde el archivo JSON
         fetch('puntos.json')
             .then(response => response.json())
             .then(puntos => {
-                console.log('Puntos cargados:', puntos); // Mensaje de depuración
-
-                puntos.forEach(function(punto) {
+                puntos.forEach(punto => {
                     if (!punto.lat || !punto.lng || !punto.nombre) {
                         console.error('Punto inválido:', punto);
                         return;
                     }
 
-                    console.log('Punto procesado:', punto); // Mensaje de depuración
-
-                    var popupContent = `
+                    const popupContent = `
                         <b>${punto.nombre}</b><br>
                         Latitud: ${punto.lat}<br>
                         Longitud: ${punto.lng}<br>
-                    `;
-
-                    // Añadir metadatos al popup
-                    for (var key in punto.metadatos) {
-                        if (punto.metadatos.hasOwnProperty(key)) {
-                            popupContent += `${key}: ${punto.metadatos[key]}<br>`;
-                        }
-                    }
-
-                    popupContent += `
+                        ${Object.entries(punto.metadatos).map(([key, value]) => `${key}: ${value}<br>`).join('')}
                         <a href="${punto.enlace_google}" target="_blank">Ver en Google Maps</a><br>
                         <a href="${punto.enlace_osm}" target="_blank">Ver en OpenStreetMap</a>
                     `;
 
-                    var icon = (highlightPoint && punto.nombre === highlightPoint) ? highlightIcon : defaultIcon;
-
-                    console.log('Icono asignado:', icon); // Mensaje de depuración
-
-                    L.marker([punto.lat, punto.lng], { icon: icon }).addTo(map)
-                        .bindPopup(popupContent);
-
-                    console.log('Marcador añadido:', punto); // Mensaje de depuración
+                    const marker = new mapboxgl.Marker({
+                        color: highlightPoint && punto.nombre === highlightPoint ? 'yellow' : 'red'
+                    })
+                        .setLngLat([punto.lng, punto.lat])
+                        .setPopup(new mapboxgl.Popup().setHTML(popupContent))
+                        .addTo(map);
                 });
             })
             .catch(error => console.error('Hubo un problema con la carga del archivo JSON:', error));
